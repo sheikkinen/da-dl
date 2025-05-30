@@ -1,0 +1,27 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore result folder
+deviant-art-assets/
+backups/
+description-classified/
+results-description/
+results-gruser/
+results-identify/
+results-img/
+results-img-llava/
+results-img-moondream/
+results-markdown/
+results-tiptap/
+
+# .gitignore
+.env.sh
+.env
+
+# Ignore all .DS_Store files
+.DS_Store
+# Ignore all .log files
+*.log
+# Ignore all .tmp files
+*.tmp
+

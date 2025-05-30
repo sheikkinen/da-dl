@@ -1,0 +1,16 @@
+# Instructions
+
+Extract description as markdown from following json data. Return only resulting markdown without additional notes.
+
+# Sample response
+
+## Title
+
+Text paragraphs.
+
+**Slogan.**
+
+*"Quote."*
+
+# Data to be converted
+

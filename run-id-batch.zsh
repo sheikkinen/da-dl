@@ -1,0 +1,17 @@
+./identify-batch.zsh deviant-art-assets/deployed-2023
+./identify-batch.zsh deviant-art-assets/deployed-2023-08
+./identify-batch.zsh deviant-art-assets/deployed-2023-09
+./identify-batch.zsh deviant-art-assets/deployed-2023-10
+./identify-batch.zsh deviant-art-assets/deployed-2023-11
+./identify-batch.zsh deviant-art-assets/deployed-2023-12
+./identify-batch.zsh deviant-art-assets/deployed-2024-01
+./identify-batch.zsh deviant-art-assets/deployed-2024-03
+./identify-batch.zsh deviant-art-assets/deployed-2024-04
+./identify-batch.zsh deviant-art-assets/deployed-2024-07
+./identify-batch.zsh deviant-art-assets/deployed-2024-09
+./identify-batch.zsh deviant-art-assets/deployed-2024-10
+./identify-batch.zsh deviant-art-assets/deployed-2024-11
+./identify-batch.zsh deviant-art-assets/deployed-2024-12
+./identify-batch.zsh deviant-art-assets/deployed-2025-01
+./identify-batch.zsh deviant-art-assets/deployed-2025-02
+./identify-batch.zsh deviant-art-assets/deployed-2025-05

@@ -1,0 +1,100 @@
+Image:
+  Filename:
+  Permissions:
+  Format:
+  Mime type:
+  Class:
+  Geometry:
+  Units:
+  Colorspace:
+  Type:
+  Endianness:
+  Depth:
+  Channels:
+  Channel depth:
+    Red:
+    Green:
+    Blue:
+  Channel statistics:
+    Pixels:
+    Red:
+      min:
+      max:
+      mean:
+      median:
+      standard deviation:
+      kurtosis:
+      skewness:
+      entropy:
+    Green:
+      min:
+      max:
+      mean:
+      median:
+      standard deviation:
+      kurtosis:
+      skewness:
+      entropy:
+    Blue:
+      min:
+      max:
+      mean:
+      median:
+      standard deviation:
+      kurtosis:
+      skewness:
+      entropy:
+  Image statistics:
+    Overall:
+      min:
+      max:
+      mean:
+      median:
+      standard deviation:
+      kurtosis:
+      skewness:
+      entropy:
+  Rendering intent:
+  Gamma:
+  Chromaticity:
+    red primary:
+    green primary:
+    blue primary:
+    white point:
+  Matte color:
+  Background color:
+  Border color:
+  Transparent color:
+  Interlace:
+  Intensity:
+  Compose:
+  Page geometry:
+  Dispose:
+  Iterations:
+  Compression:
+  Orientation:
+  Properties:
+    date:
+    png:
+    signature:
+  Artifacts:
+    verbose:
+  Tainted:
+  Filesize:
+  Number pixels:
+  Pixel cache type:
+  Pixels per second:
+  User time:
+  Elapsed time:
+  Version:
+  Resolution:
+  Print size:
+    Alpha:
+    Alpha:
+  Profiles:
+    Profile-exif:
+    Profile-icc:
+    Profile-xmp:
+    exif:
+    icc:
+    unknown:
