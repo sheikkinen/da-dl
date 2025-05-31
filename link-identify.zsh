@@ -46,13 +46,21 @@ find "$markdown_dir" -name "*.md" | while read -r markdown_file; do
   # Start with the original markdown content
   cp "$markdown_file" "$output_file"
   
-  # Add identify information if available
-  if [[ -f "$identify_file" ]]; then
-    echo -e "\n### Generation Information\n" >> "$output_file"
-    echo '```' >> "$output_file"
-    cat "$identify_file" >> "$output_file"
-    echo '```' >> "$output_file"
-    echo "✅ Added identify info for $base_filename"
+  # Add identify information if available and has sufficient content
+  if [[ -f "$identify_file" && -s "$identify_file" ]]; then
+    # Check if file has at least 5 characters
+    file_size=$(wc -c < "$identify_file" | tr -d ' ')
+    if [[ $file_size -ge 5 ]]; then
+      echo -e "\n### Generation Information\n" >> "$output_file"
+      echo '```' >> "$output_file"
+      cat "$identify_file" >> "$output_file"
+      echo '```' >> "$output_file"
+      echo "✅ Added identify info for $base_filename"
+    else
+      echo "⚠️  Identify file too short (${file_size} chars) for $base_filename"
+    fi
+  elif [[ -f "$identify_file" ]]; then
+    echo "⚠️  Empty identify file for $base_filename"
   else
     echo "⚠️  No identify file found for $base_filename"
   fi
