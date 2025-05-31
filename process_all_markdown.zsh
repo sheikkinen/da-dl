@@ -1,29 +1,38 @@
 #!/bin/zsh
 
-# Script to process all markdown files in a directory
+# Script to process all gruser files to generate final markdown files
+# This allows handling entries with empty descriptions that were skipped in earlier stages
 
-# Directory containing the markdown files
-markdown_dir="description-classified/markdown"
+# Directory containing the original gruser JSON files
+gruser_dir="results-gruser"
 
-# Check if the markdown directory exists
-if [[ ! -d "$markdown_dir" ]]; then
-  echo "Error: Directory not found: $markdown_dir"
+# Check if the gruser directory exists
+if [[ ! -d "$gruser_dir" ]]; then
+  echo "Error: Directory not found: $gruser_dir"
   exit 1
 fi
 
 rm -f results-markdown/complete_files.txt
 
-# Loop through all .md files in the markdown directory
-for filepath in "$markdown_dir"/gruser_*.md; do
-  if [[ -f "$filepath" ]]; then
-    echo "Processing $filepath..."
-    # Call the link-markdown.zsh script for each file
-    ./link-markdown.zsh "$filepath"
+# Loop through all gruser JSON files
+for gruser_filepath in "$gruser_dir"/gruser_*.json; do
+  if [[ -f "$gruser_filepath" ]]; then
+    # Extract the ID from the gruser file name
+    base_filename="${gruser_filepath##*/}"
+    id="${base_filename#gruser_}"
+    id="${id%.json}"
+    
+    echo "Processing gruser file for ID: $id"
+    
+    # Check if corresponding markdown file exists in classified results
+    classified_markdown="description-classified/markdown/gruser_${id}.md"
+    
+    # Call the link-markdown.zsh script with the gruser file and optional markdown
+    ./link-markdown.zsh "$gruser_filepath" "$classified_markdown"
   else
-    echo "Warning: No matching files found for pattern $markdown_dir/gruser_*.md"
-    # Exit if no files are found to avoid running with an empty set if that's unintended
+    echo "Warning: No matching files found for pattern $gruser_dir/gruser_*.json"
     exit 1 
   fi
 done
 
-echo "All markdown files processed."
+echo "All gruser files processed."

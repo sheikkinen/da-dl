@@ -5,14 +5,7 @@ node_modules/
 deviant-art-assets/
 backups/
 description-classified/
-results-description/
-results-gruser/
-results-identify/
-results-img/
-results-img-llava/
-results-img-moondream/
-results-markdown/
-results-tiptap/
+results-*/
 
 # .gitignore
 .env.sh
