@@ -1,0 +1,69 @@
+{
+  "categories": [
+    {
+      "name": "Loli", 
+      "keywords": ["young girl", "loli", "preteen"]
+    },
+    {
+      "name": "Tarot_Cards", 
+      "keywords": ["tarot", "card"]
+    },
+    {
+      "name": "Three Breast", 
+      "keywords": ["3breast", "three breast"]
+    },
+    {
+      "name": "Kali", 
+      "keywords": ["kali", "goddess"]
+    },
+    {
+      "name": "Goblin_Girl", 
+      "keywords": ["goblin girl", "goblin teen girl", "fairy"]
+    },
+    {
+      "name": "Heaven and Hell", 
+      "keywords": ["heaven", "hell", "subbucus", "succubus", "angel", "demon", "valkyr"]
+    },
+    {
+      "name": "Furry_Monsters", 
+      "keywords": ["furry", "anthro", "hybrid", "monsters", "vampire", "mermaid", "mummy", "centaur", "satyr"]
+    },
+    {
+      "name": "BDSM_Fetish", 
+      "keywords": ["bdsm", "fetish", "bondage", "submissive", "distress", "dominatrix"]
+    },
+    {
+      "name": "Abstract", 
+      "keywords": ["Surreal", "Abstract", "Conceptual"]
+    },
+    {
+      "name": "Erotica",
+      "keywords": ["erotica", "erotic", "explicit", "nude", "breast", "rape", "orgasm", "pussy", "flirt", "sensual", "intimate", "passion", "desire", "seduction", "romance", "affection", "allure", "temptation", "lust", "eroticism"]
+    },
+    {
+      "name": "Sci-Fi",
+      "keywords": ["sci-fi", "science fiction", "cyborg", "futuristic", "space", "alien", "vimana", "celestial", "cosmos", "cosmic", "augmentation", "circuitry", "machine", "mechanical"]
+    },
+    {
+      "name": "Fantasy",
+      "keywords": ["fantasy", "dragon", "magic", "sorcery", "mythical", "sword", "voodoo", "Baron Samedi", "mystical", "ethereal", "superheroine", "guardian", "beast", "gothic", "cathedral", "skeletal", "undead", "ghostly", "graveyard", "haunting", "supernatural", "elemental", "sorceress", "warrior", "mermaid", "furry", "zombie", "vampire", "werewolf", "skeleton", "undead", "ghost"]
+    },
+    {
+      "name": "Nature & Animals",
+      "keywords": ["nature", "mother nature", "landscape", "flowers", "roses", "garden", "forest", "autumn", "season", "winter", "snow", "mountain", "ocean", "water", "sky", "fox"]
+    },
+    {
+      "name": "Art & Tutorial",
+      "keywords": ["artist", "tutorial", "how-to", "guide", "step-by-step", "commission", "adoptable", "Crepax", "Bouguereau", "mixed media", "hyperrealistic", "cartoonish", "abstract"]
+    },
+    {
+      "name": "Character & Portrait",
+      "keywords": ["character", "figure", "portrait", "pose"]
+    },
+    {
+      "name": "Dark & Eerie",
+      "keywords": ["horror", "dark", "voodoo", "sorrows", "shadows", "dark", "gloom", "twilight", "eerie", "haunting", "macabre", "gothic", "graveyard", "skeletal", "ghostly", "fallen", "condemned", "ruin", "decay"]
+    }
+  ],
+  "fields_to_search": ["title", "tags_comma_separated", "description_markdown"]
+}

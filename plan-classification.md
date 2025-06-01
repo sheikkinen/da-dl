@@ -28,7 +28,7 @@ To categorize the final processed markdown files located in the `results-mark-id
         *   **From Gruser JSON (`results-gruser/gruser_<id>.json`):**
             *   `deviation.title`
             *   `deviation.tags` (often an array of tag objects, e.g., `[{tagName: "tag1"}, {tagName: "tag2"}]`)
-            *   `deviation.extended.descriptionText.html.markup` (original description text, may require HTML-to-text conversion if not already plain text).
+            *   Original description: Consider using the pre-processed markdown from `description-classified/markdown/gruser_<id>.md` if available and suitable, as it's already converted from the raw `deviation.extended.descriptionText.html.markup` (which might be HTML or TipTap JSON). Alternatively, extract and clean the raw description from Gruser JSON.
         *   **From `results-mark-id/*.md` content:** The processed markdown content itself.
     2.  **Keyword List Definition:** Create a predefined list of relevant keywords or keyword categories (e.g., "Sci-Fi", "Fantasy", "Character Art", "Landscape", "Tutorial", specific software names, artistic techniques).
     3.  **Extraction & Matching:**
@@ -63,11 +63,12 @@ To categorize the final processed markdown files located in the `results-mark-id
 1.  **Inspect Gruser JSON Structure (Crucial First Step):**
     *   Thoroughly examine a few `results-gruser/gruser_SOME_ID.json` files to confirm the exact field paths for `publishedTime`, `title`, `tags` (and their structure), and `descriptionText`.
     *   Command example: `cat results-gruser/gruser_$(ls results-gruser | head -n 1) | jq .` (to view the first Gruser file). Then refine with specific paths like `jq .deviation.publishedTime`.
+    *   Also, check the content and format of `description-classified/markdown/gruser_SOME_ID.md` to assess its suitability as a source for plain text descriptions.
 
 2.  **Develop `extract_core_metadata.sh` (or a more robust script, e.g., Python):**
     *   Input: Deviation ID (or Gruser file path).
     *   Output: A structured format (e.g., JSON line or TSV) containing: `id`, `published_timestamp`, `title_text`, `tags_concatenated`, `original_description_plain_text`.
-    *   This script would use `jq` extensively and potentially text cleaning utilities if descriptions are HTML.
+    *   This script would use `jq` extensively. For `original_description_plain_text`, it would either read from `description-classified/markdown/gruser_<id>.md` or extract from Gruser JSON and clean (e.g., convert HTML to text if necessary, potentially using `pandoc` or similar tools if not using the pre-processed markdown).
     *   **Goal:** Create an intermediate metadata file (e.g., `metadata_index.jsonl`) by running this script over all Gruser files once, to speed up subsequent classification steps.
 
 3.  **Develop `classify_by_time.sh`:**
@@ -219,3 +220,7 @@ This section summarizes the tools and scripts required for the classification ta
     *   Standard libraries: `json`, `datetime`, `os`, `re`, `subprocess`.
 
 This list provides a clear overview of the scripting and tooling requirements for the classification project.
+
+# Scrap pad
+
+
