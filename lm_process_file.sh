@@ -2,8 +2,8 @@
 
 # Configuration
 LM_STUDIO_URL="http://HUUTOKAUPPAKONE:1234"
-# MODEL="llama-3-8b-lexi-uncensored"
-MODEL="granite-3.2-8b-instruct"
+MODEL="llama-3-8b-lexi-uncensored"
+# MODEL="granite-3.2-8b-instruct"
 TEMPERATURE=0.7
 
 # Check command line arguments

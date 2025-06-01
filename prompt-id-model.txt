@@ -1,0 +1,47 @@
+# Instructions
+
+Extract model from given partial identify -verbose inputs.
+
+# Sample Inputs and Results
+## Sample Input 1
+Steps: 25, Sampler: Euler a, CFG scale: 7, Seed: 4158183252, Size: 512x768, Model hash: 3cd5ccf1ba, Model: sardonyxREDUX_v10
+
+## Sample Result 1
+sardonyxREDUX_v10
+
+## Sample Input 2
+Steps: 20, Sampler: Euler, Schedule type: Simple, CFG scale: 1, Distilled CFG Scale: 3.5, Seed: 1083098466, Size: 1360x792, Model hash: 58725940e3, Model: flux-hyp16-Q5_0, Lora hashes: "flux_lora_nina1: e3b0c44298fc", Version: f2.0.1v1.10.1-previous-530-g8bd7e056, Diffusion in Low Bits: Automatic (fp16 LoRA), Module 1: ae, Module 2: clip_l, Module 3: t5xxl_fp8_e4m3fn
+
+## Sample Result 2
+flux-hyp16-Q5_0
+
+## Sample Input 3
+{
+  "4": {
+    "inputs": {
+      "ckpt_name": "9 - stability\\sdxlUnstableDiffusers_v6StabilityEater.safetensors"
+    },
+    "class_type": "CheckpointLoaderSimple"
+  },
+  ...
+}
+
+
+## Sample Result
+sdxlUnstableDiffusers_v6StabilityEater
+
+## Sample Input 4 - Hybase Model has no model name
+    Description: 
+
+## Sample Result
+Hybase Model
+
+## Sample Input 5 - Input missing
+
+## Sample Result
+Model not found
+
+# Important
+Answer only with the model name or "Model not found" if no model is present in the input.
+
+# Response to analyze
