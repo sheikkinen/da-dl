@@ -91,7 +91,7 @@ function parseJSONL(content) {
 }
 
 /**
- * Check if a keyword matches in the given text (case-insensitive, word boundaries)
+ * Check if a keyword matches in the given text (case-insensitive)
  */
 function keywordMatches(text, keyword) {
     if (!text || typeof text !== 'string') {
@@ -101,8 +101,21 @@ function keywordMatches(text, keyword) {
     // Escape special regex characters in keyword
     const escapedKeyword = keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
     
-    // Create regex with word boundaries and case-insensitive flag
-    const regex = new RegExp(`\\b${escapedKeyword}\\b`, 'i');
+    // For technical terms or compound words (containing numbers, underscores, or camelCase patterns), 
+    // use flexible matching without strict word boundaries
+    const hasNumbers = /[0-9]/.test(keyword);
+    const hasCamelCase = /[a-z][A-Z]/.test(keyword); // lowercase followed by uppercase
+    const hasUnderscore = /_/.test(keyword); // contains underscore
+    const isTechnicalTerm = hasNumbers || hasCamelCase || hasUnderscore;
+    
+    let regex;
+    if (isTechnicalTerm) {
+        // For technical terms, just check if the keyword exists in the text
+        regex = new RegExp(escapedKeyword, 'i');
+    } else {
+        // For regular words, use word boundaries to avoid false matches
+        regex = new RegExp(`\\b${escapedKeyword}\\b`, 'i');
+    }
     
     return regex.test(text);
 }

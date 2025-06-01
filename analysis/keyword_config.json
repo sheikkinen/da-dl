@@ -1,6 +1,22 @@
 {
   "categories": [
     {
+      "name": "Anime Model",
+      "keywords": ["1 - anime", "yiffymix_"]
+    },
+    {
+      "name": "SDXL Model",
+      "keywords": ["9 - stability"]
+    },
+    {
+      "name": "SD Model",
+      "keywords": ["4_hodgepodge_bondage", "dreadV4_", "0_revAnimated_v122", "lyriel_v16", "hodgepodge_v20", "pirsusComicsStyle_"]
+    },
+    {
+      "name": "Flux.1 Model",
+      "keywords": ["flux-hyp16"]
+    },
+    {
       "name": "Loli", 
       "keywords": ["young girl", "loli", "preteen"]
     },
@@ -10,7 +26,7 @@
     },
     {
       "name": "Three Breast", 
-      "keywords": ["3breast", "three breast"]
+      "keywords": ["3breast", "three breast", "three breasts"]
     },
     {
       "name": "Kali", 
