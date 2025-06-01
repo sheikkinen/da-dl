@@ -2,84 +2,304 @@
   "categories": [
     {
       "name": "Anime Model",
-      "keywords": ["1 - anime", "yiffymix_"]
+      "keywords": [
+        "1 - anime",
+        "yiffymix_",
+        "yiffymix_21"
+      ]
+    },
+    {
+      "name": "HyBase Model",
+      "keywords": [
+        " Description: "
+      ]
     },
     {
       "name": "SDXL Model",
-      "keywords": ["9 - stability"]
+      "keywords": [
+        "9 - stability",
+        "sdxlUnstableDiffusers_v6StabilityEater",
+        "albedobaseXL_v13",
+        "sdxlYamersFurworld_v1",
+        "icedcoffeexl_V11",
+        "venusxl_v10",
+        "zavychromaxl_v10",
+        "sd_xl_base_1.0",
+        "newrealityxl_vnsfw",
+        "icedcoffeexl_V20",
+        "sdxlUnstableDiffusers_v11Rundiffusion",
+        "easelEssenceXL_v10",
+        "albedobaseXL_v21",
+        "autismmixSDXL_autismmixPony",
+        "realDream_sdxlPony12",
+        "talmendoxlSDXL_v11Beta"
+      ]
     },
     {
       "name": "SD Model",
-      "keywords": ["4_hodgepodge_bondage", "dreadV4_", "0_revAnimated_v122", "lyriel_v16", "hodgepodge_v20", "pirsusComicsStyle_"]
+      "keywords": [
+        "4_hodgepodge_bondage",
+        "dreadV4_",
+        "0_revAnimated_v122",
+        "lyriel_v16",
+        "hodgepodge_v20",
+        "pirsusComicsStyle_",
+        "betterThanWords_v20",
+        "betterThanWords_v15",
+        "revAnimated_v122",
+        "anyloraCheckpoint_bakedvaeFtmseFp16NOT"
+      ]
     },
     {
       "name": "Flux.1 Model",
-      "keywords": ["flux-hyp16"]
+      "keywords": [
+        "flux-hyp16",
+        "flux1-dev-bnb-nf4-v2",
+        "fluxunchainedNF4_fluxunchainedV11NF4",
+        "flux_dev",
+        "flux-hyp16-Q5_0"
+      ]
     },
     {
-      "name": "Loli", 
-      "keywords": ["young girl", "loli", "preteen"]
+      "name": "Loli",
+      "keywords": [
+        "young girl",
+        "loli",
+        "preteen"
+      ]
     },
     {
-      "name": "Tarot_Cards", 
-      "keywords": ["tarot", "card"]
+      "name": "Tarot_Cards",
+      "keywords": [
+        "tarot",
+        "card"
+      ]
     },
     {
-      "name": "Three Breast", 
-      "keywords": ["3breast", "three breast", "three breasts"]
+      "name": "Three Breast",
+      "keywords": [
+        "3breast",
+        "three breast",
+        "three breasts"
+      ]
     },
     {
-      "name": "Kali", 
-      "keywords": ["kali", "goddess"]
+      "name": "Kali",
+      "keywords": [
+        "kali",
+        "goddess"
+      ]
     },
     {
-      "name": "Goblin_Girl", 
-      "keywords": ["goblin girl", "goblin teen girl", "fairy"]
+      "name": "Goblin_Girl",
+      "keywords": [
+        "goblin girl",
+        "goblin teen girl",
+        "fairy"
+      ]
     },
     {
-      "name": "Heaven and Hell", 
-      "keywords": ["heaven", "hell", "subbucus", "succubus", "angel", "demon", "valkyr"]
+      "name": "Heaven and Hell",
+      "keywords": [
+        "heaven",
+        "hell",
+        "subbucus",
+        "succubus",
+        "angel",
+        "demon",
+        "valkyr"
+      ]
     },
     {
-      "name": "Furry_Monsters", 
-      "keywords": ["furry", "anthro", "hybrid", "monsters", "vampire", "mermaid", "mummy", "centaur", "satyr"]
+      "name": "Furry_Monsters",
+      "keywords": [
+        "furry",
+        "anthro",
+        "hybrid",
+        "monsters",
+        "vampire",
+        "mermaid",
+        "mummy",
+        "centaur",
+        "satyr"
+      ]
     },
     {
-      "name": "BDSM_Fetish", 
-      "keywords": ["bdsm", "fetish", "bondage", "submissive", "distress", "dominatrix"]
+      "name": "BDSM_Fetish",
+      "keywords": [
+        "bdsm",
+        "fetish",
+        "bondage",
+        "submissive",
+        "distress",
+        "dominatrix"
+      ]
     },
     {
-      "name": "Abstract", 
-      "keywords": ["Surreal", "Abstract", "Conceptual"]
+      "name": "Abstract",
+      "keywords": [
+        "Surreal",
+        "Abstract",
+        "Conceptual"
+      ]
     },
     {
       "name": "Erotica",
-      "keywords": ["erotica", "erotic", "explicit", "nude", "breast", "rape", "orgasm", "pussy", "flirt", "sensual", "intimate", "passion", "desire", "seduction", "romance", "affection", "allure", "temptation", "lust", "eroticism"]
+      "keywords": [
+        "erotica",
+        "erotic",
+        "explicit",
+        "nude",
+        "breast",
+        "rape",
+        "orgasm",
+        "pussy",
+        "flirt",
+        "sensual",
+        "intimate",
+        "passion",
+        "desire",
+        "seduction",
+        "romance",
+        "affection",
+        "allure",
+        "temptation",
+        "lust",
+        "eroticism"
+      ]
     },
     {
       "name": "Sci-Fi",
-      "keywords": ["sci-fi", "science fiction", "cyborg", "futuristic", "space", "alien", "vimana", "celestial", "cosmos", "cosmic", "augmentation", "circuitry", "machine", "mechanical"]
+      "keywords": [
+        "sci-fi",
+        "science fiction",
+        "cyborg",
+        "futuristic",
+        "space",
+        "alien",
+        "vimana",
+        "celestial",
+        "cosmos",
+        "cosmic",
+        "augmentation",
+        "circuitry",
+        "machine",
+        "mechanical"
+      ]
     },
     {
       "name": "Fantasy",
-      "keywords": ["fantasy", "dragon", "magic", "sorcery", "mythical", "sword", "voodoo", "Baron Samedi", "mystical", "ethereal", "superheroine", "guardian", "beast", "gothic", "cathedral", "skeletal", "undead", "ghostly", "graveyard", "haunting", "supernatural", "elemental", "sorceress", "warrior", "mermaid", "furry", "zombie", "vampire", "werewolf", "skeleton", "undead", "ghost"]
+      "keywords": [
+        "fantasy",
+        "dragon",
+        "magic",
+        "sorcery",
+        "mythical",
+        "sword",
+        "voodoo",
+        "Baron Samedi",
+        "mystical",
+        "ethereal",
+        "superheroine",
+        "guardian",
+        "beast",
+        "gothic",
+        "cathedral",
+        "skeletal",
+        "undead",
+        "ghostly",
+        "graveyard",
+        "haunting",
+        "supernatural",
+        "elemental",
+        "sorceress",
+        "warrior",
+        "mermaid",
+        "furry",
+        "zombie",
+        "vampire",
+        "werewolf",
+        "skeleton",
+        "undead",
+        "ghost"
+      ]
     },
     {
       "name": "Nature & Animals",
-      "keywords": ["nature", "mother nature", "landscape", "flowers", "roses", "garden", "forest", "autumn", "season", "winter", "snow", "mountain", "ocean", "water", "sky", "fox"]
+      "keywords": [
+        "nature",
+        "mother nature",
+        "landscape",
+        "flowers",
+        "roses",
+        "garden",
+        "forest",
+        "autumn",
+        "season",
+        "winter",
+        "snow",
+        "mountain",
+        "ocean",
+        "water",
+        "sky",
+        "fox"
+      ]
     },
     {
       "name": "Art & Tutorial",
-      "keywords": ["artist", "tutorial", "how-to", "guide", "step-by-step", "commission", "adoptable", "Crepax", "Bouguereau", "mixed media", "hyperrealistic", "cartoonish", "abstract"]
+      "keywords": [
+        "artist",
+        "tutorial",
+        "how-to",
+        "guide",
+        "step-by-step",
+        "commission",
+        "adoptable",
+        "Crepax",
+        "Bouguereau",
+        "mixed media",
+        "hyperrealistic",
+        "cartoonish",
+        "abstract"
+      ]
     },
     {
       "name": "Character & Portrait",
-      "keywords": ["character", "figure", "portrait", "pose"]
+      "keywords": [
+        "character",
+        "figure",
+        "portrait",
+        "pose"
+      ]
     },
     {
       "name": "Dark & Eerie",
-      "keywords": ["horror", "dark", "voodoo", "sorrows", "shadows", "dark", "gloom", "twilight", "eerie", "haunting", "macabre", "gothic", "graveyard", "skeletal", "ghostly", "fallen", "condemned", "ruin", "decay"]
+      "keywords": [
+        "horror",
+        "dark",
+        "voodoo",
+        "sorrows",
+        "shadows",
+        "dark",
+        "gloom",
+        "twilight",
+        "eerie",
+        "haunting",
+        "macabre",
+        "gothic",
+        "graveyard",
+        "skeletal",
+        "ghostly",
+        "fallen",
+        "condemned",
+        "ruin",
+        "decay"
+      ]
     }
   ],
-  "fields_to_search": ["title", "tags_comma_separated", "description_markdown"]
+  "fields_to_search": [
+    "title",
+    "tags_comma_separated",
+    "description_markdown"
+  ]
 }

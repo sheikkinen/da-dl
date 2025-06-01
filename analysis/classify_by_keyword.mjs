@@ -106,8 +106,9 @@ function keywordMatches(text, keyword) {
     const hasNumbers = /[0-9]/.test(keyword);
     const hasCamelCase = /[a-z][A-Z]/.test(keyword); // lowercase followed by uppercase
     const hasUnderscore = /_/.test(keyword); // contains underscore
-    const isTechnicalTerm = hasNumbers || hasCamelCase || hasUnderscore;
-    
+    const hasColon = /:/.test(keyword); // contains colon (e.g., "key:value")
+    const isTechnicalTerm = hasNumbers || hasCamelCase || hasUnderscore || hasColon;
+
     let regex;
     if (isTechnicalTerm) {
         // For technical terms, just check if the keyword exists in the text
