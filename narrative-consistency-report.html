@@ -1,0 +1,222 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Narrative Consistency Report</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, sans-serif; margin: 20px; background: #f5f5f5; }
+        .container { max-width: 1200px; margin: 0 auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+        .header { text-align: center; margin-bottom: 30px; }
+        .status { font-size: 24px; font-weight: bold; color: #4CAF50; }
+        .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin: 20px 0; }
+        .stat-card { background: #f8f9fa; padding: 15px; border-radius: 5px; text-align: center; }
+        .stat-number { font-size: 28px; font-weight: bold; color: #333; }
+        .stat-label { color: #666; margin-top: 5px; }
+        .section { margin: 30px 0; }
+        .section h2 { color: #333; border-bottom: 2px solid #ddd; padding-bottom: 10px; }
+        .issue { background: #fff3cd; border: 1px solid #ffeaa7; padding: 10px; margin: 10px 0; border-radius: 5px; }
+        .issue.error { background: #f8d7da; border-color: #f5c6cb; }
+        .mapping { display: grid; gap: 10px; }
+        .map-item { display: flex; justify-content: space-between; padding: 8px; background: #f8f9fa; border-radius: 3px; }
+        .map-item.missing { background: #f8d7da; }
+        .timestamp { color: #666; font-size: 14px; text-align: center; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🔍 Narrative Consistency Report</h1>
+            <div class="status">Status: PASS</div>
+        </div>
+        
+        <div class="stats">
+            <div class="stat-card">
+                <div class="stat-number">30</div>
+                <div class="stat-label">Total Sections</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">30</div>
+                <div class="stat-label">Matched</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">0</div>
+                <div class="stat-label">Issues Found</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">30</div>
+                <div class="stat-label">Complete Sections</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number">30</div>
+                <div class="stat-label">Individual Files</div>
+            </div>
+        </div>
+
+        <div class="section"><h2>✅ No Issues Found</h2><p>All sections are consistent between complete narrative and individual files.</p></div>
+
+        <div class="section">
+            <h2>📊 Section Mapping</h2>
+            <div class="mapping">
+                
+                        <div class="map-item ">
+                            <span><strong>Museum Discovery</strong> (1307 words)</span>
+                            <span>✅ scene-01-museum-discovery-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>The Herald's Warning</strong> (1653 words)</span>
+                            <span>✅ scene-02-herald-warning-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>Winter's Crucible</strong> (2399 words)</span>
+                            <span>✅ scene-03-winter-crucible-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>Blood and Steel</strong> (1664 words)</span>
+                            <span>✅ scene-03b-blood-and-steel-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>The Masked Wanderer</strong> (1311 words)</span>
+                            <span>✅ scene-04-the-masked-wanderer-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>Savage Attraction</strong> (1498 words)</span>
+                            <span>✅ scene-04b-savage-attraction-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>Brotherhood of Survivors</strong> (2775 words)</span>
+                            <span>✅ scene-05-brotherhood-of-survivors-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>Night Raid</strong> (1448 words)</span>
+                            <span>✅ scene-05b-night-raid-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>Into the Tunnel - Narrative</strong> (1909 words)</span>
+                            <span>✅ scene-06-into-the-tunnel-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>Tunnel Horrors - Narrative</strong> (2197 words)</span>
+                            <span>✅ scene-07-tunnel-horrors-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>Flesh and Fire</strong> (1382 words)</span>
+                            <span>✅ scene-07b-flesh-and-fire-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>First Horde Contact</strong> (1999 words)</span>
+                            <span>✅ scene-08-first-horde-contact-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>Katja's Hunt</strong> (1661 words)</span>
+                            <span>✅ scene-08b-katja-hunt-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>Paris Underground</strong> (2919 words)</span>
+                            <span>✅ scene-09-paris-underground-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>Reflections of Apocalypse</strong> (2165 words)</span>
+                            <span>✅ scene-10-reflections-of-apocalypse-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>The Scarred Passion</strong> (1584 words)</span>
+                            <span>✅ scene-10b-scarred-passion-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>The Archivist's Burden</strong> (1556 words)</span>
+                            <span>✅ scene-11-the-archivist-s-burden-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>Blade Dance</strong> (2365 words)</span>
+                            <span>✅ scene-11b-blade-dance-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>Leaving Paris</strong> (2153 words)</span>
+                            <span>✅ scene-12-leaving-paris-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>Rhine Valley Arrival</strong> (2091 words)</span>
+                            <span>✅ scene-13-rhine-valley-arrival-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>The Gathering Storm</strong> (2457 words)</span>
+                            <span>✅ scene-13b-gathering-storm-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>The Scarred Lord</strong> (2319 words)</span>
+                            <span>✅ scene-14-scarred-lord-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>Rhine Valley Battle</strong> (2077 words)</span>
+                            <span>✅ scene-15-rhine-valley-battle-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>Walking Apocalypse</strong> (1432 words)</span>
+                            <span>✅ scene-16-walking-apocalypse-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>Bloodlust and Desire</strong> (2690 words)</span>
+                            <span>✅ scene-16b-bloodlust-desire-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>Escape to the Alps</strong> (1572 words)</span>
+                            <span>✅ scene-17-escape-to-the-alps-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>Alpine Sanctuary Discovery</strong> (2293 words)</span>
+                            <span>✅ scene-18-alpine-sanctuary-discovery-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>The Keeper's Test</strong> (2156 words)</span>
+                            <span>✅ scene-19-the-keeper-s-test-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>The Stargazer's Choice</strong> (2007 words)</span>
+                            <span>✅ scene-20-the-stargazer-s-choice-narrative.md</span>
+                        </div>
+                    
+                        <div class="map-item ">
+                            <span><strong>The Return Journey</strong> (1785 words)</span>
+                            <span>✅ scene-21-return-journey-narrative.md</span>
+                        </div>
+                    
+            </div>
+        </div>
+
+        <div class="timestamp">
+            Generated: 2025-06-05 19:10:10
+        </div>
+    </div>
+</body>
+</html>
+        

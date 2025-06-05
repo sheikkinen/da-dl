@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "concatenate": "node concatenate-narratives.mjs",
+    "concatenate:toc": "node concatenate-narratives.mjs recursive-writing/wasteland-europa wasteland-europa.md --include-toc --include-stats",
+    "concatenate:simple": "node concatenate-narratives.mjs recursive-writing/wasteland-europa wasteland-europa-simple.md"
   },
   "author": "",
   "license": "ISC",
