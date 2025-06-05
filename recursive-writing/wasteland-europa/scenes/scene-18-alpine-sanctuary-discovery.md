@@ -7,6 +7,12 @@
 **Act**: III - The Confrontation  
 **Purpose**: Team discovers the hidden Alpine sanctuary and encounters its mysterious Keeper
 
+## Narrative Summary
+**STATUS**: ✅ **NARRATIVE COMPLETE**  
+**File**: `/narrative/scene-18-alpine-sanctuary-discovery-narrative.md`
+
+Maya's team discovers the hidden Alpine sanctuary using Elena's access crystal, encountering the enigmatic Keeper who guards humanity's ultimate backup plan. The sanctuary reveals itself as Project New Hope—an advanced facility containing preserved biological samples, restoration technology, and the complete Archive of human knowledge and culture. The Keeper tests their worthiness not for entry, but for the wisdom to leave and serve as bridges between the sanctuary's resources and the suffering wasteland. After witnessing miraculous technology that's been secretly healing the world for decades, the team chooses to return as guides and hope-bearers rather than remain in safety. They depart equipped with advanced supplies and the transformative knowledge that the darkness isn't permanent—restoration is actively underway and their role is to kindle hope across the wasteland.
+
 ## Key Elements
 - Discovery of advanced hidden facility built into mountain itself
 - First encounter with the Keeper - guardian of sanctuary and ancient wisdom
@@ -63,7 +69,7 @@ Mystery and revelation, testing of worthiness, encounter with transcendent wisdo
 ## Action Beats
 - Sanctuary entrance sequence revealing hidden technological marvel
 - Keeper's mysterious appearance and initial evaluation of team worthiness
-- Elena's archives interfacing with sanctuary systems to verify team's mission
+- Elena's access crystal interfacing with sanctuary systems to verify team's mission
 - Maya's confrontation with her own limitations when facing transcendent wisdom
 - Team's exploration of sanctuary's incredible knowledge preservation systems
 - Initial trials beginning as Keeper assesses their readiness for final responsibility
@@ -71,7 +77,7 @@ Mystery and revelation, testing of worthiness, encounter with transcendent wisdo
 ## Character Development
 - **Maya**: Encounters wisdom and power beyond her previous comprehension
 - **Keeper**: Mysterious guardian figure with decades of isolation and profound responsibility
-- **Elena**: Vindication of life's work as archives interface with sanctuary systems
+- **Elena**: Vindication of life's work as access crystal interfaces with sanctuary systems
 - **Team**: United in awe and humility before sanctuary's preserved wonders
 
 ## Themes Explored
@@ -79,6 +85,15 @@ Mystery and revelation, testing of worthiness, encounter with transcendent wisdo
 - **Preservation vs Progress**: Sanctuary as symbol of humanity's potential resurrection
 - **Worthiness and Testing**: Proving readiness for ultimate responsibility
 - **Technology as Sacred**: Advanced preservation systems as religious experience
+
+## Cross-References
+- **Previous Scene**: [Scene 17: Escape to the Alps](scene-17-escape-to-the-alps.md) - Team's pilgrimage approach to sanctuary
+- **Next Scene**: [Scene 19: The Keeper's Test](scene-19-the-keeper-s-test.md) - Further trials and deeper sanctuary understanding
+- **Character**: [Maya the Wanderer](../characters/maya-the-wanderer.md) - Completes transformation from wanderer to guide
+- **Character**: [The Keeper](../characters/the-keeper.md) - Tests worthiness and reveals sanctuary's true purpose
+- **Character**: [Dr. Elena Vasquez](../characters/dr-elena-vasquez.md) - Access crystal enables team's entry
+- **Location**: [Alpine Regions](../locations/alpine-regions.md) - Hidden sanctuary discovery
+- **Plot**: [Alpine Sanctuary Discovery](../plots/alpine-sanctuary-discovery.md) - Maya's choice between safety and service
 
 ## World Building
 - **Sanctuary Network**: Global system designed for civilization preservation and restoration

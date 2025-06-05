@@ -1,4 +1,6 @@
-# Scenes Master Table - Wasteland Europa
+# Scenes Master Table - Was| **10b** | **The Scarred Passion** | 2154-07-14 | Viktor's Mobile Command | ~2,500 words | II | ✅ Detailed | [scene-10b-scarred-passion.md](scenes/scene-10b-scarred-passion.md) |
+| 11 | The Archivist's Burden | 2154-07-15 | Paris Underground Complex | ~2,000 words | II | ✅ **COMPLETE** | [scene-11-the-archivist-s-burden.md](scenes/scene-11-the-archivist-s-burden.md) |
+| **11b** | **Blade Dance** | 2154-07-16 | Paris Underground Arena | ~3,000 words | II | ✅ Detailed | [scene-11b-blade-dance.md](scenes/scene-11b-blade-dance.md) |and Europa
 *Navigation and overview for individual scene files*
 
 ## Enhanced Adult Content for Heavy Metal & Black Leather Magazine
@@ -12,29 +14,29 @@
 |-------|-------|------|----------|----------|-----|--------|------|
 | 01 | Museum Discovery | 2154-06-01 | British Museum Ruins, London | ~3,000 words | I | ✅ Detailed | [scene-01-museum-discovery.md](scenes/scene-01-museum-discovery.md) |
 | 02 | The Herald's Warning | 2154-06-08 | London Outskirts | ~2,000 words | I | ✅ Detailed | [scene-02-herald-warning.md](scenes/scene-02-herald-warning.md) |
-| 03 | Winter's Crucible | 2154-06-15 | London Wasteland | ~2,500 words | I | ✅ Detailed | [scene-03-winter-crucible.md](scenes/scene-03-winter-crucible.md) |
-| **3b** | **Blood and Steel** | 2154-06-18 | London Industrial District | ~2,000 words | I | ✅ Detailed | [scene-03b-blood-and-steel.md](scenes/scene-03b-blood-and-steel.md) |
+| 03 | Winter's Crucible | 2154-06-15 | London Wasteland | ~2,500 words | I | ✅ **COMPLETE** | [scene-03-winter-crucible.md](scenes/scene-03-winter-crucible.md) |
+| **3b** | **Blood and Steel** | 2154-06-18 | London Industrial District | ~1,500 words | I | ✅ **COMPLETE** | [scene-03b-blood-and-steel.md](scenes/scene-03b-blood-and-steel.md) |
 | 04 | The Masked Wanderer | 2154-06-20 | London Ruins - Maya's hideout | ~1,500 words | I | 📋 Template | [scene-04-the-masked-wanderer.md](scenes/scene-04-the-masked-wanderer.md) |
 | **4b** | **Savage Attraction** | 2154-06-23 | Outskirts Trading Post | ~2,500 words | I | ✅ Detailed | [scene-04b-savage-attraction.md](scenes/scene-04b-savage-attraction.md) |
-| 05 | Brotherhood of Survivors | 2154-06-25 | London Underground Settlement | ~3,000 words | I | ✅ Detailed | [scene-05-brotherhood-of-survivors.md](scenes/scene-05-brotherhood-of-survivors.md) |
+| 05 | Brotherhood of Survivors | 2154-06-25 | London Underground Settlement | ~3,000 words | I | ✅ **COMPLETE** | [scene-05-brotherhood-of-survivors.md](scenes/scene-05-brotherhood-of-survivors.md) |
 | **5b** | **Night Raid** | 2154-06-28 | Maya's Camp | ~2,500 words | I | ✅ Detailed | [scene-05b-night-raid.md](scenes/scene-05b-night-raid.md) |
 | 06 | Into the Tunnel | 2154-07-01 | Channel Tunnel Entrance | ~2,500 words | II | ✅ Detailed | [scene-06-into-the-tunnel.md](scenes/scene-06-into-the-tunnel.md) |
-| 07 | Tunnel Horrors | 2154-07-03 | Mid-Channel Tunnel | ~3,000 words | II | ✅ Detailed | [scene-07-tunnel-horrors.md](scenes/scene-07-tunnel-horrors.md) |
+| 07 | Tunnel Horrors | 2154-07-03 | Mid-Channel Tunnel | ~3,000 words | II | ✅ **COMPLETE** | [scene-07-tunnel-horrors.md](scenes/scene-07-tunnel-horrors.md) |
 | **7b** | **Flesh and Fire** | 2154-07-04 | Channel Tunnel Safe Zone | ~2,000 words | II | ✅ Detailed | [scene-07b-flesh-and-fire.md](scenes/scene-07b-flesh-and-fire.md) |
-| 08 | First Horde Contact | 2154-07-05 | French Side of Channel Tunnel | ~2,500 words | II | ✅ Detailed | [scene-08-first-horde-contact.md](scenes/scene-08-first-horde-contact.md) |
+| 08 | First Horde Contact | 2154-07-05 | French Side of Channel Tunnel | ~2,500 words | II | ✅ **COMPLETE** | [scene-08-first-horde-contact.md](scenes/scene-08-first-horde-contact.md) |
 | **8b** | **Katja's Hunt** | 2154-07-08 | French Countryside | ~2,500 words | II | ✅ Detailed | [scene-08b-katja-hunt.md](scenes/scene-08b-katja-hunt.md) |
-| 09 | Paris Underground | 2154-07-10 | Paris Metro Catacombs | ~3,500 words | II | ✅ Detailed | [scene-09-paris-underground.md](scenes/scene-09-paris-underground.md) |
-| 10 | Reflections of Apocalypse | 2154-07-12 | Elena's Archive Chamber | ~2,500 words | II | ✅ Detailed | [scene-10-reflections-of-apocalypse.md](scenes/scene-10-reflections-of-apocalypse.md) |
+| 09 | Paris Underground | 2154-07-10 | Paris Metro Catacombs | ~3,500 words | II | ✅ **COMPLETE** | [scene-09-paris-underground.md](scenes/scene-09-paris-underground.md) |
+| 10 | Reflections of Apocalypse | 2154-07-12 | Elena's Archive Chamber | ~2,500 words | II | ✅ **COMPLETE** | [scene-10-reflections-of-apocalypse.md](scenes/scene-10-reflections-of-apocalypse.md) |
 | **10b** | **The Scarred Passion** | 2154-07-14 | Viktor's Mobile Command | ~2,500 words | II | ✅ Detailed | [scene-10b-scarred-passion.md](scenes/scene-10b-scarred-passion.md) |
-| 11 | The Archivist's Burden | 2154-07-15 | Paris Underground Complex | ~2,000 words | II | ✅ Detailed | [scene-11-the-archivist-s-burden.md](scenes/scene-11-the-archivist-s-burden.md) |
-| **11b** | **Blade Dance** | 2154-07-20 | Paris Underworld Arena | ~3,000 words | II | 🔄 Adult | [scene-11b-blade-dance.md](scenes/scene-11b-blade-dance.md) |
-| 12 | Leaving Paris | 2154-07-18 | Paris Outskirts | ~2,000 words | II | ✅ Detailed | [scene-12-leaving-paris.md](scenes/scene-12-leaving-paris.md) |
-| 13 | Rhine Valley Arrival | 2154-07-22 | Rhine Valley Overlook | ~2,500 words | III | ✅ Detailed | [scene-13-rhine-valley-arrival.md](scenes/scene-13-rhine-valley-arrival.md) |
-| **13b** | **The Gathering Storm** | 2154-07-24 | Rhine Valley War Camp | ~2,500 words | III | 🔄 Adult | [scene-13b-gathering-storm.md](scenes/scene-13b-gathering-storm.md) |
-| 14 | The Scarred Lord | 2154-07-25 | Rhine Valley - Neutral Ground | ~3,500 words | III | ✅ Detailed | [scene-14-scarred-lord.md](scenes/scene-14-scarred-lord.md) |
-| 15 | Rhine Valley Battle | 2154-07-26 | Rhine Valley Battlefield | ~4,000 words | III | ✅ Detailed | [scene-15-rhine-battle.md](scenes/scene-15-rhine-battle.md) |
-| 16 | Walking Apocalypse | 2154-07-27 | Alpine Foothills | ~2,500 words | III | ✅ Detailed | [scene-16-walking-apocalypse.md](scenes/scene-16-walking-apocalypse.md) |
-| **16b** | **Bloodlust and Desire** | 2154-07-28 | Alpine Battle Ridge | ~3,000 words | III | 🔄 Adult | [scene-16b-bloodlust-desire.md](scenes/scene-16b-bloodlust-desire.md) |
+| 11 | The Archivist's Burden | 2154-07-15 | Paris Underground Complex | ~2,000 words | II | ✅ **COMPLETE** | [scene-11-the-archivist-s-burden.md](scenes/scene-11-the-archivist-s-burden.md) |
+| **11b** | **Blade Dance** | 2154-07-16 | Paris Underground Arena | ~3,000 words | II | ✅ Detailed | [scene-11b-blade-dance.md](scenes/scene-11b-blade-dance.md) |
+| 12 | Leaving Paris | 2154-07-18 | Paris Outskirts | ~2,000 words | II | ✅ **COMPLETE** | [scene-12-leaving-paris.md](scenes/scene-12-leaving-paris.md) |
+| 13 | Rhine Valley Arrival | 2154-07-22 | Rhine Valley Overlook | ~2,500 words | III | ✅ **COMPLETE** | [scene-13-rhine-valley-arrival.md](scenes/scene-13-rhine-valley-arrival.md) |
+| **13b** | **The Gathering Storm** | 2154-07-24 | Rhine Valley War Camp | ~2,500 words | III | ✅ Detailed | [scene-13b-gathering-storm.md](scenes/scene-13b-gathering-storm.md) |
+| 14 | The Scarred Lord | 2154-07-25 | Rhine Valley - Neutral Ground | ~3,500 words | III | ✅ **COMPLETE** | [scene-14-scarred-lord.md](scenes/scene-14-scarred-lord.md) |
+| 15 | Rhine Valley Battle | 2154-07-26 | Rhine Valley Battlefield | ~4,000 words | III | ✅ **COMPLETE** | [scene-15-rhine-battle.md](scenes/scene-15-rhine-battle.md) |
+| 16 | Walking Apocalypse | 2154-07-27 | Alpine Foothills | ~2,500 words | III | ✅ **COMPLETE** | [scene-16-walking-apocalypse.md](scenes/scene-16-walking-apocalypse.md) |
+| **16b** | **Bloodlust and Desire** | 2154-07-28 | Alpine Battle Ridge | ~3,000 words | III | ✅ Detailed | [scene-16b-bloodlust-desire.md](scenes/scene-16b-bloodlust-desire.md) |
 | 17 | Escape to the Alps | 2154-07-30 | Alpine Approach | ~2,000 words | III | ✅ Detailed | [scene-17-escape-to-the-alps.md](scenes/scene-17-escape-to-the-alps.md) |
 | 18 | Alpine Sanctuary Discovery | 2154-08-05 | Hidden Alpine Sanctuary | ~3,000 words | III | ✅ Detailed | [scene-18-alpine-sanctuary-discovery.md](scenes/scene-18-alpine-sanctuary-discovery.md) |
 | 19 | The Keeper's Test | 2154-08-07 | Sanctuary's Inner Chambers | ~3,000 words | III | ✅ Detailed | [scene-19-the-keeper-s-test.md](scenes/scene-19-the-keeper-s-test.md) |
@@ -128,10 +130,10 @@ All core scenes now have comprehensive development including structure, characte
 - Scene 12: Leaving Paris
 - Scene 13: Rhine Valley Arrival
 - Scene 16: Walking Apocalypse
-- Scene 17: Escape to the Alps
-- Scene 18: Alpine Sanctuary Discovery
-- Scene 19: The Keeper's Test
-- Scene 20: The Stargazer's Choice
+- ✅ **Scene 17: Escape to the Alps** (COMPLETE - 2,000 words)
+- ✅ **Scene 18: Alpine Sanctuary Discovery** (COMPLETE - 3,000 words)
+- ✅ **Scene 19: The Keeper's Test** (COMPLETE - 3,000 words)
+- ✅ **Scene 20: The Stargazer's Choice** (COMPLETE - 2,500 words)
 
 **Previously Completed**:
 - Scene 01: Museum Discovery

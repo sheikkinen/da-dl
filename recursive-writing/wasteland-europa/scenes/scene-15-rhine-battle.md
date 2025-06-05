@@ -118,3 +118,14 @@ Cost of heroism, meaningful sacrifice
 - Sees value in Maya's cause
 - Plants seeds for potential future alliance
 - Represents complex antagonist relationship
+
+## Narrative Summary
+*[Generated 2154-12-27]*
+The completed 4,000-word narrative depicts the climactic Rhine Valley battle where Maya's small group faces Viktor's massive Crimson Horde. Elena sacrifices herself using an EMP device to disable the Horde's technological advantage, creating chaos that allows Maya's group to escape toward the Alps. The scene transforms Maya from reluctant leader to humanity's champion through Elena's heroic death, while establishing her tactical brilliance and emotional strength. Katja Bloodraven emerges as a complex antagonist who respects Maya's abilities, setting up future character development. The battle serves as the story's major action climax and emotional turning point.
+
+**Cross-References:**
+- [Scene 15 Full Narrative](../narrative/scene-15-rhine-valley-battle-narrative.md)
+- [Dr. Elena Vasquez Character Profile](../characters/dr-elena-vasquez.md)
+- [Maya Thorne Character Development](../characters/maya-the-wanderer.md)
+- [Katja Bloodraven Relationship Arc](../characters/katja-bloodraven.md)
+- [Rhine Valley Location Details](../locations/rhine-valley.md)

@@ -163,3 +163,20 @@ Escalating stakes, reputation as double-edged sword, hunter becoming hunted
 - Psychological effects of first violent encounter
 - Intelligence gathering from hostile encounters
 - Escape and evasion techniques underground
+
+---
+
+## Scene Summary
+
+**Full narrative available in:** [`scene-08-first-horde-contact-narrative.md`](../narrative/scene-08-first-horde-contact-narrative.md)
+
+**Summary:** Maya's team emerges from the Channel tunnel to discover the French side is under systematic occupation by Viktor's Crimson Horde forces. What should have been cautious reconnaissance becomes a deadly game of cat and mouse as professional Horde patrols, led by a "Bloodraven" commander, attempt to capture Maya alive on Viktor's orders. The team faces their first encounter with the Horde's evolved military organization—encrypted communications, coordinated tactics, armored vehicles, and intelligence networks capable of tracking specific individuals across continental distances.
+
+Through tactical combat and Jin's electronic warfare capabilities, the team gathers crucial intelligence about the Horde's transformation from raiders to a legitimate military force. Marcus's combat expertise proves invaluable against professional opposition, while Aria's scouting skills help them navigate the systematic search patterns. The scene establishes the escalated threat level as Maya realizes Viktor hasn't just heard of her reputation—he's been actively hunting her, turning their journey into a strategic chess match between experienced commanders.
+
+The encounter forces Maya to confront the reality that her growing legend has attracted the attention of organized enemies with resources and capabilities far beyond typical wasteland threats. The team's successful extraction demonstrates their evolution into a professional unit, but also reveals they're now engaged in a conflict with stakes extending far beyond personal survival.
+
+**Character Development:** Maya grapples with the realization that her reputation has made her a strategic target; Team proves their combat effectiveness against professional military opposition  
+**World Building:** Crimson Horde revealed as evolved military organization with intelligence networks and strategic planning capabilities; French wasteland shown as occupied territory under systematic control  
+**Plot Advancement:** Viktor's personal interest in Maya confirmed; Team's mission scope expanded from simple journey to strategic conflict; Intelligence gathered about enemy capabilities and resources  
+**Heavy Metal Elements:** Professional military aesthetic meets post-apocalyptic survival; Tactical combat with high-tech equipment; Organized evil versus competent heroes; Gothic industrial atmosphere of occupied territory

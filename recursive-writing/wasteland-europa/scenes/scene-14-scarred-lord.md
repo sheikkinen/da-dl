@@ -106,3 +106,14 @@ Hope vs. despair, civilization vs. barbarism
 - Katja's presence and potential conflict
 - Map's importance to both philosophies
 - Neither character willing to compromise
+
+## Narrative Summary
+*[Generated 2154-12-27]*
+The completed 3,500-word narrative presents the climactic philosophical confrontation between Maya and Viktor on neutral ground. Using alternating POV sections, the scene explores the ideological core of their conflict—hope vs. despair, civilization vs. barbarism. Viktor's complex characterization emerges through revelations about his childhood trauma and the loss of his mother, showing how his brutal philosophy stems from genuine belief rather than simple cruelty. Maya's unwavering commitment to rebuilding civilization is tested against Viktor's rational arguments about strength and survival. The scene ends with both leaders respecting each other as worthy adversaries while remaining fundamentally opposed, setting up the inevitable war to come.
+
+**Cross-References:**
+- [Scene 14 Full Narrative](../narrative/scene-14-scarred-lord-narrative.md)
+- [Viktor Kozlov Character Profile](../characters/viktor-the-scarred.md)
+- [Maya Thorne Character Development](../characters/maya-the-wanderer.md)
+- [Philosophical Themes](../world-building/themes.md)
+- [Rhine Valley Neutral Ground](../locations/rhine-valley.md)

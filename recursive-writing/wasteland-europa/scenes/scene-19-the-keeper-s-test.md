@@ -7,6 +7,12 @@
 **Act**: III - The Confrontation  
 **Purpose**: The Keeper tests Maya's team through trials that reveal their deepest character and worthiness
 
+## Narrative Summary
+**STATUS**: ✅ **NARRATIVE COMPLETE**  
+**File**: `/narrative/scene-19-the-keeper-s-test-narrative.md`
+
+The Keeper subjects Maya's team to individual trials designed to test their character and worthiness for ultimate responsibility. Each team member faces personalized challenges that force them to choose between self-interest and service to others. Maya's ultimate test requires her to choose between personal safety in the sanctuary versus returning to the dangerous wasteland as a guide for other survivors. After all team members prove their worth through sacrifice and moral choice, the Keeper reveals the sanctuary's true purpose: training worthy individuals to become part of a global restoration network. The team receives communication crystals connecting them to other guides across the continent and accepts their destiny as bridges between the sanctuary's resources and the suffering world, choosing service over safety and hope-sharing over hope-hoarding.
+
 ## Key Elements
 - Individual trials testing each team member's core values and character
 - Maya faces ultimate test of leadership and selflessness for humanity's future
@@ -79,6 +85,14 @@ Testing of character, worthiness through sacrifice, moral choice over personal g
 - **Worthiness Through Sacrifice**: Proving readiness for ultimate responsibility
 - **Individual vs Collective**: Personal growth enabling greater service to species
 - **Guardianship Responsibility**: Accepting role as protector of humanity's future
+
+## Cross-References
+- **Previous Scene**: [Scene 18: Alpine Sanctuary Discovery](scene-18-alpine-sanctuary-discovery.md) - Team's discovery of sanctuary and first meeting with Keeper
+- **Next Scene**: [Scene 20: The Stargazer's Choice](scene-20-the-stargazer-s-choice.md) - Final decisions about ultimate destiny
+- **Character**: [Maya the Wanderer](../characters/maya-the-wanderer.md) - Proves ultimate worthiness through selfless choice
+- **Character**: [The Keeper](../characters/the-keeper.md) - Conducts final evaluation and reveals restoration network
+- **Character**: [Dr. Elena Vasquez](../characters/dr-elena-vasquez.md) - Access crystal enables testing protocols
+- **Plot**: [Alpine Sanctuary Discovery](../plots/alpine-sanctuary-discovery.md) - Maya's choice between safety and service
 
 ## World Building
 - **Testing Protocols**: Sanctuary systems designed to evaluate moral and spiritual readiness

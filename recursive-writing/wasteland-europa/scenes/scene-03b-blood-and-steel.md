@@ -67,3 +67,21 @@ Violence as survival necessity, building reputation through strength
 - Post-apocalyptic raider clan identifying marks
 - Realistic combat injury and recovery
 - London industrial district geography
+
+## Scene Summary
+Maya encounters Crimson Horde advance scouts in London's industrial ruins, leading to brutal close-quarters combat that establishes her reputation as a formidable warrior. After eliminating three professional raiders, she discovers surveillance photos proving Viktor has been tracking her movements. The encounter serves as Maya's introduction to the larger threat approaching from the east while showcasing her evolution into a legendary figure through violence and tactical brilliance.
+
+---
+
+## Content Warning
+**Adult Content (18+):** Graphic violence, brutal combat, blood, psychological trauma, mature survival themes
+
+---
+
+## Narrative
+
+**Full narrative available in:** [`scene-03b-blood-and-steel-narrative.md`](../narrative/scene-03b-blood-and-steel-narrative.md)
+
+**Summary:** Maya hunts in London's industrial ruins when she encounters three Crimson Horde advance scouts conducting reconnaissance. The professional raiders reveal they've been tracking her movements for Viktor "The Scarred," leader of the eastern forces. What begins as a stealth elimination becomes a brutal knife fight showcasing Maya's adaptation of Erik's military training to wasteland survival. Through visceral combat using improvised weapons and environmental advantages, Maya systematically eliminates the threats while gathering intelligence about the approaching Horde. The scene establishes her growing reputation as "The Wanderer" and introduces Viktor as a strategic threat who recognizes her value. Maya leaves the bodies arranged as a message, accepting the challenge while embracing the predatory nature that the wasteland has cultivated within her.
+
+---

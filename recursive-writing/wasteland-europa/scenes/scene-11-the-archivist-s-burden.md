@@ -91,6 +91,12 @@ Sacrifice for the greater good, abandoning safety for hope, passing the torch to
 - Team's burden of carrying irreplaceable knowledge increases stakes of future conflicts
 - Archive abandonment represents point of no return for Elena and the mission
 
+## Narrative Summary
+**STATUS**: ✅ **NARRATIVE COMPLETE**  
+**File**: `/narrative/scene-11-the-archivist-s-burden-narrative.md`
+
+Elena faces the agonizing decision to abandon Archive Section 7 after 23 years of guardianship, choosing to join Maya's mission as humanity's active hope rather than remaining as a passive knowledge keeper. The narrative follows Elena's methodical process of compressing human civilization's essential knowledge into portable storage units, teaching Maya the sacred responsibility of knowledge preservation, and conducting a ritual farewell to her life's work. As the team prepares for departure, Elena transfers specialized databases to each member based on their expertise—medical knowledge to Aria, engineering protocols to Jin, tactical information to Marcus, and humanity's cultural heritage to Maya. The scene culminates with Elena sealing the archives and stepping into the wasteland, transforming from isolated archivist to active participant in civilization's restoration. The narrative emphasizes the weight of carrying humanity's collected wisdom while establishing Elena as a full team member ready for the dangerous journey to the Rhine Valley.
+
 **Previous Scene:** [Scene 10b: The Scarred Passion](scene-10b-scarred-passion.md)  
 **Next Scene:** [Scene 11b: Blade Dance](scene-11b-blade-dance.md)  
 **Main Story Arc:** [Scene 12: Leaving Paris](scene-12-leaving-paris.md)

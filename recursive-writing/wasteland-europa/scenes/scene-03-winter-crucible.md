@@ -86,3 +86,20 @@ Survival through preparation, honoring the dead
 - Determination for journey solidified
 - Survival skills that will be crucial later
 - Emotional preparation for leaving home
+
+---
+
+## Narrative Summary
+**STATUS**: ✅ **NARRATIVE COMPLETE**  
+**File**: `/narrative/scene-03-winter-crucible-narrative.md`
+
+Maya endures a brutal winter storm in her London shelter, showcasing her exceptional survival skills while drawing strength from Erik's training and memory. Trapped for eighteen hours in sub-zero conditions, she demonstrates the meticulous preparation and mental discipline that Erik taught her—from resource management and threat assessment to emergency planning and route analysis. The narrative captures intimate moments of survival mathematics, equipment maintenance, and psychological endurance while weaving in crucial flashbacks to Erik's teachings about winter survival, navigation, and the mental fortitude required for wasteland life. The storm serves as both external trial and internal test, confirming Maya's readiness for the continental journey while deepening her spiritual connection to her deceased mentor. Through detailed survival techniques and Erik's remembered wisdom, the scene establishes key skills that will prove essential in later challenges while exploring themes of preparation, legacy, and finding humanity in harsh conditions.
+
+**Cross-References:**
+- [Scene 03 Full Narrative](../narrative/scene-03-winter-crucible-narrative.md)
+- [Old Erik Character Profile](../characters/old-erik-ghost.md)
+- [Maya Character Development](../characters/maya-the-wanderer.md)
+
+**Previous Scene:** [Scene 02: Herald Warning](scene-02-herald-warning.md)  
+**Next Scene:** [Scene 04: The Masked Wanderer](scene-04-the-masked-wanderer.md)  
+**Related Subplot:** [Winter Survival](../subplots/winter-survival.md)

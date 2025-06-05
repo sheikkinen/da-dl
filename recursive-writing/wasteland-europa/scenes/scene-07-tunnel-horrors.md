@@ -92,6 +92,14 @@ Descent into darkness, facing the unthinkable, leadership under extreme pressure
 - Environmental challenges preparing team for Alpine obstacles
 - Leadership lessons that will be crucial in Rhine Valley confrontation
 
+## Narrative Summary
+**Status**: COMPLETED  
+**File**: [narrative/scene-07-tunnel-horrors-narrative.md](../narrative/scene-07-tunnel-horrors-narrative.md)
+
+Maya leads her team through flooded sections of the Channel Tunnel where they discover abandoned Horde breeding facilities—cages where humans were kept as livestock for systematic exploitation. The team encounters a sole survivor, a woman so psychologically broken that Maya makes the agonizing decision to leave her behind rather than risk the entire mission. This discovery of industrial-scale human degradation tests Maya's leadership as her team struggles to process the horror while continuing their journey toward France. The scene establishes the true depths of Horde brutality and forces Maya to make impossible moral choices that will haunt the team throughout their mission.
+
+**Key Narrative Beats**: Flooded tunnel navigation → Discovery of breeding facility → Encounter with broken survivor → Moral crisis and leadership decision → Continued advance toward French exit
+
 **Previous Scene:** [Scene 06: Into the Tunnel](scene-06-into-the-tunnel.md)  
 **Next Scene:** [Scene 7b: Flesh and Fire](scene-07b-flesh-and-fire.md)  
 **Main Story Arc:** [Scene 08: First Horde Contact](scene-08-first-horde-contact.md)

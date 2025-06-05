@@ -9,6 +9,12 @@
 ## Scene Summary
 The final confrontation between Maya and Viktor becomes a deadly dance of attraction and violence. Their philosophical and physical battle reveals the seductive appeal of power while Maya ultimately chooses hope over domination, rejecting Viktor's offer to rule beside him.
 
+## Narrative
+
+**Full narrative available in:** [`scene-16b-bloodlust-desire-narrative.md`](../narrative/scene-16b-bloodlust-desire-narrative.md)
+
+**Summary:** Maya and Viktor face each other in final combat on Alpine Battle Ridge during a dramatic storm. Their battle combines intense physical violence with psychological seduction as Viktor attempts to convert Maya through demonstrating her predatory nature and offering partnership in ruling the wasteland. The combat becomes increasingly intimate and erotic as Viktor uses physical dominance and philosophical temptation to break down Maya's resistance. He reveals uncomfortable truths about her violent nature and attraction to power, offering her the seductive choice of embracing strength over service. Maya ultimately rejects the temptation, choosing hope and sacrifice over easy dominion, demonstrating true heroic strength by sparing Viktor's life and proving that mercy represents a higher form of power than domination.
+
 ---
 
 ## Content Warning

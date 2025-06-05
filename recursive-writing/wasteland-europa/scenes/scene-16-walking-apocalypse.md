@@ -46,7 +46,7 @@ The price of heroism, becoming what you fight against, redemption through purpos
 
 ## Key Props/Items
 - Maya's damaged equipment showing wear from constant conflict
-- Elena's portable archives still protected despite retreat conditions
+- Elena's memory and preserved archives carried by the surviving team
 - Emergency climbing gear necessary for Alpine terrain navigation
 - Communication equipment for coordinating with any remaining allies
 - Viktor's tracking methods and pursuit technology visible in distance
@@ -71,8 +71,8 @@ The price of heroism, becoming what you fight against, redemption through purpos
 ## Character Development
 - **Maya**: Grapples with psychological transformation from scavenger to legend
 - **Viktor**: Demonstrates relentless determination and tactical adaptability
-- **Elena**: Proves invaluable with geographic knowledge of Alpine region
-- **Team**: Bonds strengthen under ultimate pressure of survival and pursuit
+- **Team**: Bonds strengthen under ultimate pressure of survival and pursuit, while grieving Elena's loss
+- **Surviving Members**: Each character tested by Elena's death and the weight of continuing her mission
 
 ## Themes Explored
 - **The Hero's Journey**: Maya's evolution into mythical figure with accompanying burden
@@ -95,3 +95,14 @@ The price of heroism, becoming what you fight against, redemption through purpos
 **Previous Scene:** [Scene 15: Rhine Valley Battle](scene-15-rhine-battle.md)  
 **Next Scene:** [Scene 16b: Bloodlust and Desire](scene-16b-bloodlust-desire.md)  
 **Main Story Arc:** [Scene 17: Escape to the Alps](scene-17-escape-to-the-alps.md)
+
+## Narrative Summary
+*[Generated 2154-12-27]*
+The completed 2,500-word narrative follows Maya's team as they retreat through the Alpine foothills while pursued by Viktor's forces after Elena's sacrifice in the Rhine Valley Battle. The scene explores Maya's psychological transformation from wanderer to legendary figure, the team's grief over Elena's death, and their struggle with exhaustion and despair. Through technical climbing and survival challenges, Maya must inspire her followers to continue despite overwhelming odds. The narrative establishes the final stakes for the sanctuary discovery while honoring Elena's memory and the weight of her sacrifice for humanity's future.
+
+**Cross-References:**
+- [Scene 16 Full Narrative](../narrative/scene-16-walking-apocalypse-narrative.md)
+- [Maya's Character Development](../characters/maya-the-wanderer.md)
+- [Elena's Legacy and Sacrifice](../narrative/scene-15-rhine-valley-battle-narrative.md)
+- [Alpine Terrain Challenges](../locations/alpine-foothills.md)
+- [Viktor's Relentless Pursuit](../characters/viktor-the-scarred.md)

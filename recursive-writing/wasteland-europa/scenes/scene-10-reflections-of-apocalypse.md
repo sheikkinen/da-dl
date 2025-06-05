@@ -91,6 +91,12 @@ Knowledge as responsibility, preserving human memory, individual choice affectin
 - Team's deeper commitment to mission despite increasing personal danger
 - Elena's decision to join the journey, bringing irreplaceable knowledge with them
 
+## Narrative Summary
+**STATUS**: ✅ **NARRATIVE COMPLETE**  
+**File**: `/narrative/scene-10-reflections-of-apocalypse-narrative.md`
+
+Elena guides Maya through the vast Archive Section 7, revealing the true scope of humanity's lost civilization and the devastating scale of the Great Collapse. In this cathedral-like underground chamber filled with preserved knowledge, Maya learns that 8 billion people once thrived on Earth before a 95% mortality catastrophe reduced humanity to 400 million survivors. Elena explains that Maya's map is part of the Global Knowledge Preservation Network—a secret system designed to maintain critical information through civilization's collapse. The scene transforms Maya from treasure hunter to guardian of humanity's future as she accepts the terrible responsibility of carrying compressed archives to the Alpine sanctuary. Elena reveals Viktor's true threat: he systematically destroys knowledge repositories to maintain control through ignorance. The narrative culminates with Maya's decision to risk everything for restoration rather than mere survival, setting up Elena's choice to abandon her life's work and join the mission as humanity's hope for rebuilding civilization.
+
 **Previous Scene:** [Scene 09: Paris Underground](scene-09-paris-underground.md)  
 **Next Scene:** [Scene 10b: The Scarred Passion](scene-10b-scarred-passion.md)  
 **Main Story Arc:** [Scene 11: The Archivist's Burden](scene-11-the-archivist-s-burden.md)

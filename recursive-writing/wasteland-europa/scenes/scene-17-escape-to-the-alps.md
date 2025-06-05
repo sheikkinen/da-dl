@@ -7,10 +7,16 @@
 **Act**: III - The Confrontation  
 **Purpose**: Team finally outmaneuvers Viktor's pursuit and approaches the hidden Alpine sanctuary
 
+## Narrative Summary
+**STATUS**: ✅ **NARRATIVE COMPLETE**  
+**File**: `/narrative/scene-17-escape-to-the-alps-narrative.md`
+
+The team successfully escapes Viktor's relentless pursuit by ascending into the high Alpine foothills, using their knowledge of mountain terrain to outmaneuver his forces. Maya leads them through increasingly treacherous paths guided by Elena's legacy knowledge from her research journals, following ancient stone markers toward the hidden sanctuary. The narrative explores their psychological transformation from battle-scarred survivors to hopeful pilgrims, as the pristine Alpine environment begins healing the trauma of recent violence. Each team member undergoes personal reflection and preparation for what awaits at the sanctuary, while ancient ceremonial stations along the path suggest they're approaching something far more significant than a simple research facility. The scene establishes the spiritual dimension of their quest while maintaining the post-apocalyptic gothic atmosphere.
+
 ## Key Elements
 - Successful escape from Viktor's pursuit using Alpine terrain advantages
 - Team's discovery of ancient paths leading toward hidden sanctuary
-- Elena's knowledge reveals clues about sanctuary's location and nature
+- Elena's legacy knowledge (from her journals) reveals clues about sanctuary's location and nature
 - Transition from pursued refugees to pilgrims approaching sacred destination
 - Maya's psychological recovery from violence and embrace of higher purpose
 - Final preparation for sanctuary trials that will test their worthiness
@@ -39,16 +45,23 @@ Redemption through pilgrimage, escape from violence toward hope, spiritual prepa
 
 ## Scene Structure
 1. **Opening**: Final escape from Viktor's pursuit using mountain expertise
-2. **Discovery**: Elena reveals knowledge of ancient sanctuary approach routes
+2. **Discovery**: Team follows Elena's legacy knowledge to find ancient sanctuary approach routes
 3. **Transition**: Team's psychological shift from warfare to pilgrimage
 4. **Journey**: Following ancient markers through increasingly mysterious terrain
 5. **Approach**: Final preparation for sanctuary discovery and trials ahead
 
 ## Key Props/Items
-- Elena's maps and knowledge of pre-war Alpine research stations
+- Elena's research journals and maps with pre-war Alpine research station knowledge
 - Ancient stone markers with mysterious symbols guiding sanctuary approach
 - Mountain climbing equipment essential for final sanctuary access
 - Maya's map showing alignment with Alpine sanctuary location
+
+## Cross-References
+- **Previous Scene**: [Scene 16: Walking Apocalypse](scene-16-walking-apocalypse.md) - Viktor's pursuit through Alpine foothills
+- **Next Scene**: [Scene 18: Alpine Sanctuary Discovery](scene-18-alpine-sanctuary.md) - Team discovers the hidden sanctuary
+- **Character**: [Maya the Wanderer](../characters/maya-the-wanderer.md) - Leadership and transformation
+- **Character**: [Dr. Elena Vasquez](../characters/dr-elena-vasquez.md) - Legacy knowledge guides team
+- **Location**: [Alpine Regions](../locations/alpine-regions.md) - Mountain sanctuary approach
 - Sacred artifacts or totems discovered along pilgrimage route
 - Communication equipment confirmed as useless in approaching sacred zone
 

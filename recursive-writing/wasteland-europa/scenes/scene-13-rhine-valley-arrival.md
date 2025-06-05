@@ -92,6 +92,22 @@ David vs Goliath, courage in the face of impossible odds, final preparation for 
 - Environmental factors that will influence the final battle
 - Team positions and roles for the climactic Rhine Valley battle
 
+---
+
+## ✅ NARRATIVE COMPLETE (2,489 words)
+
+**Full Narrative Location**: `/narrative/scene-13-rhine-valley-arrival-narrative.md`
+
+**Narrative Summary**: Maya's team reaches the Rhine Valley overlook and witnesses the overwhelming scale of Viktor's war machine—over 50,000 fighters, thousands of vehicles, and a militarized city dedicated to conquest. Elena's historical knowledge reveals infiltration routes through pre-war maintenance tunnels, while surveillance uncovers Viktor's prison compound holding thousands of experimental subjects. The discovery transforms their mission from strategic necessity to moral imperative. Despite facing impossible odds, each team member commits to the final confrontation, understanding they're fighting for humanity's future. The scene culminates with their entry into service tunnels beneath Viktor's fortress, beginning the final approach to their ultimate destiny.
+
+**Key Character Development**:
+- **Maya**: Accepts leadership of impossible mission, choosing hope over tactical prudence
+- **Elena**: Active strategic planning using historical knowledge to enable infiltration
+- **Team Unity**: Each member makes conscious choice to face likely death for greater good
+- **Viktor's Forces**: Revealed as technologically enhanced, organizationally sophisticated threat to human survival
+
+**External Reference**: Final setup for climactic confrontations in Viktor's command center and experimental laboratories
+
 **Previous Scene:** [Scene 12: Leaving Paris](scene-12-leaving-paris.md)  
 **Next Scene:** [Scene 13b: The Gathering Storm](scene-13b-gathering-storm.md)  
 **Main Story Arc:** [Scene 14: The Scarred Lord](scene-14-scarred-lord.md)

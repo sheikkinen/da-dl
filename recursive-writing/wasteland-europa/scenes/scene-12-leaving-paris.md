@@ -100,6 +100,22 @@ Sacrifice for greater good, leaving safety for dangerous purpose
 - Contingency plans for team separation or casualties
 - Intelligence about Viktor's personal habits and psychology
 
+---
+
+## ✅ NARRATIVE COMPLETE (2,047 words)
+
+**Full Narrative Location**: `/narrative/scene-12-leaving-paris-narrative.md`
+
+**Narrative Summary**: Maya's team prepares for their most dangerous phase as Elena makes the profound decision to abandon her safe scholarly life and join the mission to the Rhine Valley. The Underground community gathers for an emotional farewell ceremony, providing the team with crucial intelligence, specialized equipment, and emergency communication protocols. Elena transforms from passive knowledge preserver to active participant, accepting her grandmother's surgical kit and committing to document Viktor's experiments. The scene culminates with the team's emergence from the sanctuary tunnels into the dangerous wasteland, beginning their final approach to Viktor's territory. Key themes explored include the sacrifice of safety for greater purpose, the weight of leadership when protecting non-combatants, and the community support that enables heroic missions.
+
+**Key Character Development**:
+- **Elena**: Completes transformation from scholar to adventurer, choosing active hope over passive preservation
+- **Maya**: Accepts expanded responsibility for protecting intellectual team member
+- **Community**: Demonstrates faith in the mission through practical and emotional support
+- **Team Dynamics**: Adjusts to protecting more vulnerable member while preparing for maximum danger
+
+**External Reference**: Links to Scene 11 (Elena's decision to join) and Scene 13 (approach to Rhine Valley)
+
 ## Foreshadowing
 - Elena's scientific knowledge that will prove crucial
 - Team's protective instincts that will be tested

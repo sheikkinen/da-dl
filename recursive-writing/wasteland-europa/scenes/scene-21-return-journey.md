@@ -7,6 +7,12 @@
 **Act**: III - The Confrontation  
 **Purpose**: Story resolution, hope for the future  
 
+## Narrative Summary
+**STATUS**: ✅ **NARRATIVE COMPLETE**  
+**File**: `/narrative/scene-21-return-journey-narrative.md`
+
+Maya begins her descent from the sanctuary, transformed from desperate refugee to humanity's chosen guide carrying hope back into the wasteland. Equipped with advanced restoration technology and connected to the global preservation network, she and her team prepare to establish healing centers and train local guides throughout the continent. The narrative reflects on Elena's sacrifice and Old Erik's teachings while revealing that restoration work is already underway throughout the Alpine region. As they plan their first settlement clinic and training center, Maya accepts her destiny as a teacher showing the world how to heal itself. The scene concludes with the team camping under stars that witness the beginning of humanity's resurrection, carrying absolute certainty that hope shared is hope multiplied, ready to transform the wasteland through service rather than conquest.
+
 ## Key Elements
 - Maya begins her return journey to the wasteland
 - Carrying new knowledge and hope

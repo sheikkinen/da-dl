@@ -7,6 +7,22 @@
 **Act**: I - The Discovery  
 **Purpose**: Maya adopts her iconic masked identity, transforming from scavenger to legend  
 
+## Narrative Summary
+**Status**: ✅ **COMPLETE** - [Full Narrative](../narrative/scene-04-the-masked-wanderer-narrative.md)  
+**Word Count**: 1,247 words  
+**Generated**: June 5, 2025
+
+Maya undergoes her pivotal transformation from vulnerable scavenger to the legendary "Wanderer" in the intimate setting of her London hideout. Working by candlelight, she crafts her iconic leather mask and modifies Erik's weathered traveling cloak to create her signature ensemble. The narrative captures the ritualistic nature of this identity shift as Maya consciously abandons her past self to become something the wasteland can fear and respect. Through careful attention to physical details—the texture of aged leather, the weight of the mask, the hidden pockets of the cloak—the scene establishes the iconic visual elements that will define Maya's character throughout the story. The transformation is both psychological and practical, providing Maya with the anonymity and mystique needed to survive the dangerous journey ahead. The scene concludes with Maya's emergence into the toxic London night as the Wanderer, leaving behind the frightened scavenger forever.
+
+## Cross-References
+- **Previous Scene**: [Scene 02: Herald Warning](scene-02-herald-warning.md) - Erik's death and final request
+- **Next Scene**: [Scene 05: Channel Preparations](scene-05-channel-preparations.md) - Beginning of the journey
+- **Character Arc**: Maya's complete identity transformation from survivor to legend
+- **Related Scenes**: 
+  - [Scene 01: Museum Discovery](scene-01-museum-discovery.md) - Maya's vulnerability before transformation
+  - [Scene 09: Paris Underground](scene-09-paris-underground.md) - The Wanderer's reputation in action
+- **Thematic Connections**: Identity transformation, legend-making, honoring the dead while embracing change
+
 ## Key Elements
 - Maya crafts her signature leather mask and cloak from Erik's belongings
 - Psychological transformation from vulnerable survivor to mysterious wanderer

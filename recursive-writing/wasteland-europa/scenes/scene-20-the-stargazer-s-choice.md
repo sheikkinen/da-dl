@@ -7,6 +7,12 @@
 **Act**: III - The Confrontation  
 **Purpose**: Maya faces ultimate choice between remaining safe in sanctuary or returning to lead humanity's restoration
 
+## Narrative Summary
+**STATUS**: ✅ **NARRATIVE COMPLETE**  
+**File**: `/narrative/scene-20-the-stargazer-s-choice-narrative.md`
+
+The Keeper reveals the sanctuary's observatory, showing Maya the global scope of the preservation network—hidden installations worldwide working in secret to restore Earth. Maya faces the ultimate choice between remaining in safety as a sanctuary contributor or returning to the dangerous wasteland as humanity's active guide and leader. Elena makes the ultimate sacrifice, choosing to remain as the new Keeper to maintain the sanctuary while Maya and the team return to establish the restoration network. The scene culminates with Maya accepting cosmic responsibility for humanity's future, equipped with master communication arrays connecting her to the global preservation network. As dawn breaks, the team prepares to return to the wasteland not as refugees seeking safety, but as humanity's chosen agents of restoration carrying both advanced technology and the sacred mission of teaching the world to heal itself.
+
 ## Key Elements
 - Keeper reveals sanctuary's observatory showing scope of global preservation network
 - Maya confronts choice between personal safety and dangerous mission to restore humanity
@@ -78,6 +84,14 @@ Ultimate choice between safety and service, accepting destiny, heroic responsibi
 - Emotional farewells and commitment statements
 - Elena's transformation into sanctuary guardian
 - Maya's acceptance of leadership role for humanity's future
+
+## Cross-References
+- **Previous Scene**: [Scene 19: The Keeper's Test](scene-19-the-keeper-s-test.md) - Team proves worthiness through individual trials
+- **Next Scene**: [Scene 21: The Return Journey](scene-21-the-return-journey.md) - Beginning the mission to rebuild the world
+- **Character**: [Maya the Wanderer](../characters/maya-the-wanderer.md) - Completes transformation to humanity's chosen leader
+- **Character**: [Dr. Elena Vasquez](../characters/dr-elena-vasquez.md) - Ultimate sacrifice becoming new Keeper
+- **Character**: [The Keeper](../characters/the-keeper.md) - Passes guardianship to Elena, enables global network
+- **Plot**: [Alpine Sanctuary Discovery](../plots/alpine-sanctuary-discovery.md) - Maya's ultimate choice between safety and service
 
 ## Dialogue Notes
 - Keeper explaining Maya's destiny and choices

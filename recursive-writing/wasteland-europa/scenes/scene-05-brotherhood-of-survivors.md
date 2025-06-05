@@ -151,3 +151,18 @@ Found family, shared purpose, trust through vulnerability
 - Underground shelter construction and maintenance
 - Resource management in scarcity conditions
 - Leadership emergence in crisis situations
+
+## Scene Summary
+
+**Full narrative available in:** [`scene-05-brotherhood-of-survivors-narrative.md`](../narrative/scene-05-brotherhood-of-survivors-narrative.md)
+
+**Summary:** Maya descends into London's underground settlement seeking companions for her continental journey to the Alpine sanctuary. She encounters three specialists who represent the core skills needed for the mission: Marcus Chen (former British Army Lieutenant and security chief), Jin Watanabe (electronics engineer and communications expert), and Aria Volkov (medic/scout with botanical knowledge). 
+
+The scene showcases Maya's evolution from lone wolf to leader as she reveals Erik's ancient map and explains the mission's scope - a three-month journey through dangerous territory to reach a pre-war research facility that could restore environmental stability across Europe. Each potential companion has personal motivations that align with the mission: Marcus seeks to redeem his military failures, Jin wants to restore continental communications, and Aria hopes to help eastern communities beyond mere survival.
+
+The recruitment process becomes a ritual of commitment as Maya presents each member with modified dog tags bearing unique symbols, establishing their partnership as a "brotherhood of survivors." The scene ends with unified commitment to departure in one week, transforming four individual survivors into a cohesive team ready to face the challenges ahead. The underground settlement serves as a contrast between safety and the unknown dangers of their quest, while establishing the found family bonds that will sustain them through future trials.
+
+**Character Development:** Maya learns to lead through inspiration rather than command; Marcus, Jin, and Aria commit to greater purpose beyond community safety
+**World Building:** London underground settlement showcases survivor ingenuity; Ancient map reveals pre-war research facility importance
+**Plot Advancement:** Core team established; Mission parameters defined; Journey preparation timeline set
+**Heavy Metal Elements:** Industrial underground aesthetic; Competent specialists unified by dangerous purpose; Ritual commitment ceremony

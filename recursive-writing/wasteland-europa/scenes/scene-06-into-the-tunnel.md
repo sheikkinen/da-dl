@@ -7,6 +7,22 @@
 **Act**: II - The Crossing  
 **Purpose**: Maya's team enters the dangerous Channel Tunnel, beginning Act II journey  
 
+## Narrative Summary
+**Status**: ✅ **COMPLETE** - [Full Narrative](../narrative/scene-06-into-the-tunnel-narrative.md)  
+**Word Count**: 1,847 words  
+**Generated**: June 5, 2025
+
+Maya's team faces their first major group challenge as they enter the dangerous Channel Tunnel, beginning Act II of their journey. The narrative establishes the tunnel as a post-apocalyptic industrial hell—a massive wound in the earth filled with black water, twisted metal, and the constant threat of structural collapse. The Wanderer leads her carefully assembled team—Marcus (military engineer), Jin (tech specialist), and Aria (medic)—through methodical preparation and initial entry into the underwater labyrinth. The scene emphasizes technical problem-solving, team coordination, and the psychological weight of committing to a path with no return. Through detailed descriptions of flooded passages, emergency lighting, and environmental hazards, the narrative creates a claustrophobic atmosphere where every step forward increases both danger and commitment to the mission. The team's professional competence and trust in Maya's leadership is established through their handling of equipment, hazard assessment, and communication protocols. The scene ends with them deeper in the tunnel, having passed the point of no return and moving toward whatever awaits in the tunnel's darkest sections.
+
+## Cross-References
+- **Previous Scene**: [Scene 05: Channel Preparations](scene-05-channel-preparations.md) - Team assembly and final preparations
+- **Next Scene**: [Scene 07: Tunnel Horrors](scene-07-tunnel-horrors.md) - Deeper tunnel challenges and first Horde encounters
+- **Character Arc**: Maya's leadership tested by complex technical challenge requiring team coordination
+- **Related Scenes**: 
+  - [Scene 04: The Masked Wanderer](scene-04-the-masked-wanderer.md) - Maya's transformation into the Wanderer
+  - [Scene 08: First Horde Contact](scene-08-first-horde-contact.md) - Continuation of tunnel journey
+- **Thematic Connections**: Point of no return, trust in leadership, facing the unknown, team dynamics under pressure
+
 ## Key Elements
 - Team's first major obstacle - flooded and dangerous Channel Tunnel
 - Technical challenges of underwater crossing with limited equipment
