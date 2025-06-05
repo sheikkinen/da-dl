@@ -1,10 +1,10 @@
 # Scene 5b: Night Raid - Full Narrative
 
-**Date:** June 28, 2154  
-**Location:** Maya's Camp  
-**Duration:** ~2,500 words  
-**POV:** Maya "The Wanderer"  
-**Type:** Adult Enhancement Scene  
+**Date**: June 28, 2154  
+**Location**: Maya's Camp  
+**Duration**: ~2,500 words  
+**POV**: Maya "The Wanderer"  
+**Type**: Adult Enhancement Scene  
 
 ## Content Warning
 **Adult Content (18+):** Graphic violence, intense combat, psychological trauma, mature survival themes

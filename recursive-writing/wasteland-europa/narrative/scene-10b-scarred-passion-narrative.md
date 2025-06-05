@@ -1,10 +1,10 @@
 # Scene 10b: The Scarred Passion - Full Narrative
 
-**Date:** July 14, 2154  
-**Location:** Viktor's Mobile Command, Rhine Valley Approach  
-**Duration:** ~2,500 words  
-**POV:** Viktor "The Scarred" Kozlov  
-**Type:** Adult Enhancement Scene  
+**Date**: July 14, 2154  
+**Location**: Viktor's Mobile Command, Rhine Valley Approach  
+**Duration**: ~2,500 words  
+**POV**: Viktor "The Scarred" Kozlov  
+**Type**: Adult Enhancement Scene  
 
 ---
 

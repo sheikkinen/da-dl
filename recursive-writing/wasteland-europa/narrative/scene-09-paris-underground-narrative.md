@@ -1,5 +1,6 @@
 # Scene 09: Paris Underground - Full Narrative
 
+**Date**: 2154-07-10  
 **Target Length:** ~3,500 words  
 **Style:** Heavy Metal magazine adult post-apocalyptic adventure  
 **Content Warning:** Mature themes, violence, psychological trauma  

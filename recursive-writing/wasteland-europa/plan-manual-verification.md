@@ -97,6 +97,12 @@ This plan outlines the systematic manual verification process for the Wasteland 
 - [ ] **Adult Scene Length**: Verify enhanced scenes meet expanded length requirements
 - [ ] **Total Project Length**: Confirm overall project meets 75,000+ word target
 
+### 3.4 Automated Quality Checks
+- [ ] **Tense Consistency**: Run `./check-tense-person-simple.sh narrative` for automated analysis
+- [ ] **Person Consistency**: Review tense-person report for POV issues
+- [ ] **Issue Resolution**: Address files flagged with ⚠️ indicators
+- [ ] **Re-verification**: Re-run automated checks after manual corrections
+
 ---
 
 ## Phase 4: Continuity and Flow Verification
@@ -179,6 +185,12 @@ This plan outlines the systematic manual verification process for the Wasteland 
 ---
 
 ## Verification Execution Protocol
+
+### Automated Pre-Checks (Phase 0)
+1. **Run Automated Verification**: Execute `./run-automated-checks.sh` before manual verification
+2. **Review Automated Reports**: Check `verification-results/` directory for issues
+3. **Address Critical Issues**: Fix any problems flagged by automated tools
+4. **Re-run if Needed**: Repeat automated checks until all pass or only minor issues remain
 
 ### Daily Verification Sessions
 1. **Morning Review**: 2-3 scenes per session (templates and narratives)

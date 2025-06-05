@@ -1,5 +1,6 @@
 # Scene 06: Into the Tunnel - Narrative
 
+**Date**: 2154-07-01  
 **Generated**: June 5, 2025  
 **Scene**: Into the Tunnel  
 **Word Count**: ~2,500 words  

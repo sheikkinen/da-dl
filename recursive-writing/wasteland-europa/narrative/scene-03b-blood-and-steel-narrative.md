@@ -1,6 +1,6 @@
 # Scene 3b: Blood and Steel - Full Narrative
 
-**Date:** June 18, 2154  
+**Date**: June 18, 2154  
 **Location:** London Industrial District  
 **POV:** Maya "The Wanderer"  
 **Duration:** ~2,000 words  

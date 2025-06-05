@@ -1,10 +1,10 @@
 # Scene 7b: Flesh and Fire - Full Narrative
 
-**Date:** July 4, 2154  
-**Location:** Channel Tunnel Safe Zone  
-**Duration:** ~2,000 words  
-**POV:** Maya "The Wanderer"  
-**Type:** Adult Enhancement Scene  
+**Date**: July 4, 2154  
+**Location**: Channel Tunnel Safe Zone  
+**Duration**: ~2,000 words  
+**POV**: Maya "The Wanderer"  
+**Type**: Adult Enhancement Scene  
 
 ## Content Warning
 **Adult Content (18+):** Sexual tension, intimate moments, emotional vulnerability, mature relationship themes
