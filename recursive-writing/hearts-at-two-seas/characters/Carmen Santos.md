@@ -63,3 +63,44 @@ Supporting Character - The Wise Mentor / Spanish Mother Figure
 
 ---
 Use this template for all new or revised character profiles. Add or adjust sections as needed for your story universe.
+
+## Involvement Tracking
+
+### Character Interactions
+| Character | Shared Scenes | Relationship Type |
+|-----------|---------------|-------------------|
+| Laura Virta | 10 | Primary Relationship |
+| Brief appearances by spa staff | 1 | Limited Interaction |
+| Other spa guests | 1 | Limited Interaction |
+| Diego Moreno | 8 | Primary Relationship |
+| Local fishermen | 2 | Regular Contact |
+| Carmen | 1 | Limited Interaction |
+| Local townspeople | 1 | Limited Interaction |
+| Elderly residents | 1 | Limited Interaction |
+| Father Miguel Ruiz | 3 | Regular Contact |
+| Local community | 1 | Limited Interaction |
+| Laura Virta-Moreno | 1 | Limited Interaction |
+| Laura's Finnish family | 1 | Limited Interaction |
+| Entire San Pedro del Pinatar community | 1 | Limited Interaction |
+
+### Plot Involvement
+| Plot Thread | Scene Count | Involvement Level |
+|-------------|-------------|-------------------|
+| Healing Waters Subplot | 11 | Central |
+| Environmental Threat Subplot | 10 | Central |
+| Main Romance Arc | 9 | Major |
+
+### Scene Presence Timeline
+| Scene | Date | Role | Description |
+|-------|------|------|-------------|
+| Scene Template | Scene 05 | major | Central to scene action |
+| Scene Template | Scene 06 | major | Central to scene action |
+| Scene 08 - Storm Rescue | July 8 | minor | Present but limited role |
+| Scene Template | Scene 12 | major | Central to scene action |
+| Scene Template | Scene 13 | major | Central to scene action |
+| Scene Template | Scene 14 | major | Central to scene action |
+| Scene 15 - The Choice | August 5 | minor | Present but limited role |
+| Scene Template | Scene 16 | major | Central to scene action |
+| Scene Template | Scene 17 | major | Central to scene action |
+| Scene Template | Scene 18 | moderate | Active participant |
+

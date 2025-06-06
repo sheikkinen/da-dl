@@ -59,3 +59,35 @@ Supporting Character - The Wise Spiritual Guide / Cemetery Keeper
 
 ---
 Use this template for all new or revised character profiles. Add or adjust sections as needed for your story universe.
+
+## Involvement Tracking
+
+### Character Interactions
+| Character | Shared Scenes | Relationship Type |
+|-----------|---------------|-------------------|
+| Laura Virta | 5 | Significant Interaction |
+| Cemetery gardener | 1 | Limited Interaction |
+| Diego Moreno | 4 | Significant Interaction |
+| Father Miguel | 1 | Limited Interaction |
+| Carmen Santos | 3 | Regular Contact |
+| Local community | 1 | Limited Interaction |
+| Laura Virta-Moreno | 1 | Limited Interaction |
+| Laura's Finnish family | 1 | Limited Interaction |
+| Entire San Pedro del Pinatar community | 1 | Limited Interaction |
+
+### Plot Involvement
+| Plot Thread | Scene Count | Involvement Level |
+|-------------|-------------|-------------------|
+| Main Romance Arc | 5 | Major |
+| Healing Waters Subplot | 5 | Major |
+| Environmental Threat Subplot | 5 | Major |
+
+### Scene Presence Timeline
+| Scene | Date | Role | Description |
+|-------|------|------|-------------|
+| Scene 02 - Cemetery Discovery | May 16 | major | Central to scene action |
+| Scene Template | Scene 09 | moderate | Active participant |
+| Scene 15 - The Choice | August 5 | moderate | Active participant |
+| Scene Template | Scene 17 | moderate | Active participant |
+| Scene Template | Scene 18 | moderate | Active participant |
+

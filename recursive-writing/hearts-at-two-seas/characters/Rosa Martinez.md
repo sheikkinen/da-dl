@@ -60,3 +60,26 @@ Supporting Character - The Community Heart / Market Matriarch
 
 ---
 Use this template for all new or revised character profiles. Add or adjust sections as needed for your story universe.
+
+## Involvement Tracking
+
+### Character Interactions
+| Character | Shared Scenes | Relationship Type |
+|-----------|---------------|-------------------|
+| Laura Virta | 2 | Regular Contact |
+| Various market vendors and local customers | 1 | Limited Interaction |
+| Diego Moreno | 1 | Limited Interaction |
+
+### Plot Involvement
+| Plot Thread | Scene Count | Involvement Level |
+|-------------|-------------|-------------------|
+| Main Romance Arc | 2 | Moderate |
+| Healing Waters Subplot | 2 | Moderate |
+| Environmental Threat Subplot | 2 | Moderate |
+
+### Scene Presence Timeline
+| Scene | Date | Role | Description |
+|-------|------|------|-------------|
+| Scene Template | Scene 04 | major | Central to scene action |
+| Scene Template | Scene 07 | major | Central to scene action |
+

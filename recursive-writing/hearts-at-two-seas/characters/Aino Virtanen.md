@@ -64,3 +64,15 @@ Protagonist - The Grieving Heart Finding New Love
 
 ---
 Use this template for all new or revised character profiles. Add or adjust sections as needed for your story universe.
+
+## Involvement Tracking
+
+### Character Interactions
+No significant character interactions detected.
+
+### Plot Involvement
+No plot involvement detected.
+
+### Scene Presence Timeline
+No scene presence detected.
+

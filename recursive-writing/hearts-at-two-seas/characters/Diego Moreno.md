@@ -63,3 +63,48 @@ Male Lead - The Healing Heart / Patient Lover
 
 ---
 Use this template for all new or revised character profiles. Add or adjust sections as needed for your story universe.
+
+## Involvement Tracking
+
+### Character Interactions
+| Character | Shared Scenes | Relationship Type |
+|-----------|---------------|-------------------|
+| Laura Virta | 13 | Primary Relationship |
+| Seagulls and local fishermen | 1 | Limited Interaction |
+| Rosa Martinez | 1 | Limited Interaction |
+| Carmen Santos | 8 | Primary Relationship |
+| Local fishermen | 2 | Regular Contact |
+| Father Miguel | 1 | Limited Interaction |
+| Father Miguel Ruiz | 4 | Significant Interaction |
+| Carmen | 1 | Limited Interaction |
+| Local townspeople | 1 | Limited Interaction |
+| Elderly residents | 1 | Limited Interaction |
+| Local community | 1 | Limited Interaction |
+| Laura Virta-Moreno | 1 | Limited Interaction |
+| Laura's Finnish family | 1 | Limited Interaction |
+| Entire San Pedro del Pinatar community | 1 | Limited Interaction |
+
+### Plot Involvement
+| Plot Thread | Scene Count | Involvement Level |
+|-------------|-------------|-------------------|
+| Main Romance Arc | 13 | Central |
+| Environmental Threat Subplot | 13 | Central |
+| Healing Waters Subplot | 12 | Central |
+
+### Scene Presence Timeline
+| Scene | Date | Role | Description |
+|-------|------|------|-------------|
+| Scene 03 - First Diego Sighting | May 21 | major | Central to scene action |
+| Scene Template | Scene 07 | major | Central to scene action |
+| Scene 08 - Storm Rescue | July 8 | major | Central to scene action |
+| Scene Template | Scene 09 | major | Central to scene action |
+| Scene Template | Scene 10 | major | Central to scene action |
+| Scene Template | Scene 11 | major | Central to scene action |
+| Scene Template | Scene 12 | major | Central to scene action |
+| Scene Template | Scene 13 | major | Central to scene action |
+| Scene Template | Scene 14 | major | Central to scene action |
+| Scene 15 - The Choice | August 5 | major | Central to scene action |
+| Scene Template | Scene 16 | major | Central to scene action |
+| Scene Template | Scene 17 | major | Central to scene action |
+| Scene Template | Scene 18 | major | Central to scene action |
+

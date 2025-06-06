@@ -1,5 +1,8 @@
 # Tasklist: Hearts at Two Seas
 
+Remember: refer to timeline.md and tasklist.md and keep these up-to-date
+Actual narrative in Finnish
+
 ## ✅ COMPLETED TASKS
 
 - [x] Create tools folder (logs/ created for timeline tracking)
@@ -41,9 +44,9 @@
 ### Project Organization
 - [x] Check hearts-at-two-seas directory structure
 - [x] Reorganize files in folders (move characters to characters/, scenes to scenes/, etc.)
-- [ ] Check character folder and add column for each main character
-- [ ] Check character folder and add column for each plot
-- [ ] Update timeline to match scene templates - mark if character is present and few words for each plot
+- [x] Check character folder and add column for each main character
+- [x] Check character folder and add column for each plot
+- [x] Update timeline to match scene templates - mark if character is present and few words for each plot
 
 ### Scene Development
 - [x] Complete all scene templates (ALL 18 scenes now complete: 11-14, 16-18 ✅ ADDED)
