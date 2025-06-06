@@ -32,7 +32,10 @@ This file is for story-specific planning, coordination, and tracking within the 
 
 Check contents of timeline-template.md and logs/*.log. Update timeline entries as seen fit, but keep the structure. Add entries to the log when not using the tools.
 
-## Add your story-specific planning below, e.g:
+## Tasklist
+
+Add your story-specific planning in the tasklist, tasklist-template.md :
+
 - [ ] Story arc outlines
 - [ ] Key character journeys
 - [ ] Major plot points
@@ -41,3 +44,9 @@ Check contents of timeline-template.md and logs/*.log. Update timeline entries a
 - [ ] Timeline milestones (reference `timeline-template.md`)
 - [ ] Open questions / blockers
 - [ ] Tooling/automation needs for this story
+
+# IMPORTANT
+
+Keep tasklist up to date - don't start a task unless it's documented by you on the tasklist.
+Don't start writing actual narrative before plots, timeline and scene synopses are complete.
+Always plan potential for helper tools before solving a task
