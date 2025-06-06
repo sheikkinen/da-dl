@@ -2,7 +2,7 @@
 
 Viisi päivää hautausmaan löytämisen jälkeen Laura oli löytänyt rytmin. Aamulla herää auringonnousun mukana, espresso ja tostada parvekkeella, sitten pitkä kävelylenkki ennen lämpimimmän päivän koittoa. Hän ei ollut palannut hautausmaalle, vaikka ruusujen tuoksu seurasi häntä unissa.
 
-Sen sijaan hän oli löytänyt reitin rannikon reunaan, polun joka kierteli kahden meren välille. Välimerelläinen puoli oli rauhallinen, leveä, täynnä aurinkoa ja pikkulapsia. Smaller Sea -puoli - pieni meri, jonka nimeä hän ei osannut lausua espanjaksi - oli syvempi, myrskyisämpi, enemmän hänen makuunsa.
+Sen sijaan hän oli löytänyt reitin rannikon reunaan, polun joka kierteli kahden meren välille. Välimerelläinen puoli oli rauhallinen, leveä, täynnä aurinkoa ja pikkulapsia. Pienempi meri -puoli - pieni meri, jonka nimeä hän ei osannut lausua espanjaksi - oli syvempi, myrskyisämpi, enemmän hänen makuunsa.
 
 Tänä aamuna hän oli kävellyt pidempään kuin yleensä, kunnes löysi itsenä korkeilta kallioilta, joista avautui näkymä molempiin meriin. Tuuli oli vahvempaa täällä ylhäällä, ja se hajanoi hänen hiuksiaan vapaammaksi kuin hän oli sallinut niiden olla vuosiin.
 
