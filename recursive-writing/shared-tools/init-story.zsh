@@ -42,11 +42,6 @@ cat > "$STORY_DIR/README.md" <<EOF
 
 This is the project directory for the story "$STORY_NAME".
 
-## Shared Templates
-- [Character template](../shared-artifacts/character-template.md)
-- [Scene template](../shared-artifacts/scene-template.md)
-- [Plot template](../shared-artifacts/plot-template.md)
-- [Artifact template](../shared-artifacts/artifact-template.md)
 EOF
 
 # Create story-action-plan.md by prepending metadata and then appending the template
@@ -60,9 +55,6 @@ EOF
   cat "$BASE_DIR/story-action-plan.md"
 } > "$STORY_DIR/story-action-plan.md"
 
-# Register in central index (optional, append to a central file)
-echo "$STORY_NAME,${AUTHOR:-""},${GENRE:-""},$(date)" >> "$BASE_DIR/story-index.csv"
-
 # Write first entry in log
 echo "[$(date)] Story '$STORY_NAME' initialized by $USER" > "$LOG_DIR/$STORY_NAME.log"
 
@@ -73,7 +65,13 @@ echo "$STORY_NAME" > "$ACTIVE_STORY_FILE"
 echo "[$(date)] Set active story to '$STORY_NAME' by $USER" >> "$LOG_DIR/$STORY_NAME.log"
 
 # Add timeline template and diagram to story directory
-cp "$SHARED_ARTIFACTS/timeline-template.md" "$STORY_DIR/timeline-template.md"
+cp "$SHARED_ARTIFACTS/timeline-template.md" "$STORY_DIR/timeline.md"
+
+# Add world template to story directory
+cp "$SHARED_ARTIFACTS/world-building-template.md" "$STORY_DIR/world.md"
+
+# Add tasklist template to story directory
+cp "$SHARED_ARTIFACTS/tasklist-template.md" "$STORY_DIR/tasklist.md"
 
 # Optionally log the copying action
 if [[ -d "$LOG_DIR" ]]; then

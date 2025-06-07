@@ -1,3 +1,9 @@
+# Story Action Plan: art-of-love
+
+- Author: Master Sunzi's Successor
+- Genre: Romance/Strategy
+- Description: A sensual reinterpretation of Sunzi's Art of War for modern romantic conquest
+
 # Story Action Plan
 
 This file is for story-specific planning, coordination, and tracking within the recursive writing project.

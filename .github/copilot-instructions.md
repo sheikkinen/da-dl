@@ -4,8 +4,15 @@ Start each task by summarizing the conversion so far. Include self reflection an
 
 # References
 
-Add cross-references between files when creating or editing new files.
+Add cross-references between files when creating or editing new files. Reference contains filenames with relative paths and it is made on both files.
 
 # AI Friendly summary
 
-Include an AI Friendly summary at the beginning of each file. This should be a brief overview of the file's content, purpose, and any important context that would help an AI understand its relevance.
+Include an AI Friendly summary at the beginning of each file, an overview of the file's content and purpose. Use extreme brevity and clarity.
+
+# Use of Markdown tools
+
+Use markdown tables, embedded Mermaid diagrams and READMNE style filestructures when appropriate.
+
+# Instructions for the task are in the included files
+
