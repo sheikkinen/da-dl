@@ -23,3 +23,10 @@
 - [ ] **Phase 12**: For priority scenes (top 10 most critical), generate full narrative chapters
 - [ ] **Phase 13**: For remaining scenes, generate the full narrative as separate files
 - [ ] **Phase 14**: Final quality validation and cross-reference synchronization
+    - [ ] Check for duplicated text using `../shared-tools/checkSimilarity.mjs` using a custom script for cross chapter analysis
+
+## 📚 POST-COMPLETION ENHANCEMENT TASKS
+### Chapter Summary Creation Task 
+- [ ] **Create Summaries Folder** - Establish `summaries/` directory for chapter summary files
+- [ ] **Chapter Summary Generation** - Read each of the 5 narrative chapters and create individual summary files
+- [ ] **Complete Story Summary** - Create comprehensive whole story summary file.
