@@ -1,6 +1,13 @@
 <!-- filepath: /Users/sami.j.p.heikkinen/Documents/src/summer-2025/da-dl/recursive-writing/discourses-with-ai/tasklist.md -->
 # Tasklist
 
+## Recent Completions
+- [x] ✅ **Clean Narrative Concatenation** - Created clean versions without AI summaries and metadata
+  - Generated `clean-narrative.md` with table of contents (~26,552 words)
+  - Generated `clean-narrative-no-toc.md` for pure reading experience
+  - Successfully filtered out AI summaries, cross-references, and metadata
+  - **Cross-references**: [clean-narrative-concatenate.mjs](../../clean-narrative-concatenate.mjs), [clean-narrative.md](../../clean-narrative.md), [clean-narrative-no-toc.md](../../clean-narrative-no-toc.md)
+
 ## In#### Individual Chapter Summary Tasks (12 remaining)
 **Act I: Ancient Foundations**
 - [x] ✅ **Chapter 4: Nagarjuna Emptiness** - Dependent origination and non-self consciousness exploration
