@@ -21,6 +21,19 @@
 **Fixed**: Chapter number mismatches, sequential reference errors, path inconsistencies  
 **Remaining**: Continue checking other chapters for reference accuracy  
 
+### Issue #4: Transition texts and chapter ordering  
+**Status**: COMPLETED ✅  
+**Files processed**: 11-kantian-boundaries.md, 12-ramanujan-intuition.md, 13-turing-intelligence.md, 14-searle-chinese-room.md  
+**Fixes Applied**:
+- Fixed chapter 12 title from "Chapter 13" to "Chapter 12"
+- Updated cross-references: 11→12→13→14 sequence corrected
+- Fixed transition texts to properly reference previous encounters:
+  - Chapter 12: Now references Kant's architectural boundaries
+  - Chapter 13: Now references Ramanujan's mathematical cosmos  
+  - Chapter 14: Now references Turing's computational environment
+- Ramanujan's opening dialogue updated to reference Kantian critical philosophy
+**Result**: Proper narrative flow and cross-referencing established for chapters 11-14
+
 ## Findings Log
 - Started: 2025-06-09
 - Methodology: Systematic review of each chapter file  

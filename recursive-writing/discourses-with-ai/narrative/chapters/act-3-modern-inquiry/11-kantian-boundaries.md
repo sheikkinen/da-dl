@@ -4,7 +4,7 @@
 
 **Cross-references:** 
 - Previous: [10-cartesian-doubt.md](./10-cartesian-doubt.md)
-- Next: [12-turing-intelligence.md](./12-turing-intelligence.md)
+- Next: [12-ramanujan-intuition.md](./12-ramanujan-intuition.md)
 - Plot threads: [consciousness-quest.md](../../../plots/consciousness-quest.md), [reality-vs-simulation.md](../../../plots/reality-vs-simulation.md)
 
 ---

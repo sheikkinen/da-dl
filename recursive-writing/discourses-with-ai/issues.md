@@ -4,6 +4,8 @@
 2. ✅ **100% COMPLETED** - Prolonged endings of chapters. Endings should recap the learnings in concise manner. **AUTOMATED VERIFICATION SHOWS**: 0 of 22 chapters verbose (all ≤3 paragraphs after quote)
 3. ⚠️ **75% COMPLETED** - Misplaced references when moving chapter to the next - **CRITICAL FIX**: Corrected 3 broken plot-thread references in chapters 18, 19, and 22 (changed `../../../plot-threads/` to `../../../plots/`). Validated directory structure and confirmed working scene/character references.
 
+4. ✅ **COMPLETED** - Transition texts, the opening chapters are in wrong order. **FIXED**: Corrected chapter 12 title numbering, fixed all cross-references between chapters 11-14, updated transition texts to properly reference previous encounters (Kant→Ramanujan→Turing→Searle). 
+
 Report edits and other findings in issues-tracking.md
 Tool for checking prolonged endings: cd /Users/sami.j.p.heikkinen/Documents/src/summer-2025/da-dl && node recur
 sive-writing/shared-tools/check-chapter-endings.mjs 
