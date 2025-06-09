@@ -7,6 +7,15 @@
 
 **Cross-References**: See also [../narrative/chapters/](../narrative/chapters/) for full narrative content
 
+## Related Reference Materials
+
+- **[Philosopher Biographical Appendix](../appendix-philosophers.md)** - Comprehensive biographical information and key philosophical insights for all 21 philosophers encountered in the narrative
+- **[Character Profiles](../characters/)** - Individual character profiles for all 21 philosophers
+- **[Complete Narrative Chapters](../narrative/chapters/)** - All 22 completed chapters (~92,400 words)
+- **[Timeline](../timeline.md)** - Chronological sequence of philosophical encounters
+
+---
+
 ## Structure
 
 ### Chapter Summaries (`/chapters/`)
