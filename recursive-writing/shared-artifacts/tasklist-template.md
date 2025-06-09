@@ -33,3 +33,4 @@
 - [ ] **Chapter Summary Generation** - Read each of the narrative chapters and create individual summary files
 - [ ] **Keywords and Refence Images** - Extract keywords from the summary and rerun ../shared-tools/keyword_search.mjs. Select a reference image and provide an image generation prompt for the chapter.
 - [ ] **Complete Story Summary** - Create comprehensive whole story summary file.
+- [ ] **Verify every chapter** - Add for every chapter: read chapter and revise repetitive content, especially in chapter end. Bridge chapter ending with the next chapter beginning.
