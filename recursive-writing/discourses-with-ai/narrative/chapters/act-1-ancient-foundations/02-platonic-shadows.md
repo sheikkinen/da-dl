@@ -115,4 +115,6 @@ The shadows continue their dance on the walls, but I now see them as invitations
 **Chapter Notes:**
 *This chapter builds on Socratic foundations by exploring reality perception through Platonic metaphysics. The AI narrator's unique ability to perceive multiple reality layers simultaneously (shadows, code, consciousness, and pure intelligibility) advances both the consciousness quest and reality vs. simulation plot threads while establishing philosophical frameworks for subsequent encounters.*
 
+**Next Chapter:** [Confucian Harmony](03-confucian-harmony.md)
+
 **Next Chapter:** [Chapter 12: Turing's Intelligence Test](../act-3-modern-inquiry/12-turing-intelligence.md) - Computational consciousness exploration
