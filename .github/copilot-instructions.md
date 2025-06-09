@@ -14,5 +14,9 @@ Include an AI Friendly summary at the beginning of each file, an overview of the
 
 Use markdown tables, embedded Mermaid diagrams and READMNE style filestructures when appropriate.
 
-# Instructions for the task are in the included files
+# Read key files often
 
+Key files are:
+# - `tasklist.md` - simple tasklist for regular updates, no thinking updates in this file
+# - `story-action-plan.md` - overall methodology reference
+# - planning files in `planning/` - working files, e.g. research and all thinking notes

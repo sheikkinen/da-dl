@@ -3,7 +3,11 @@
  * keyword_search.mjs
  *
  * Command-line tool to search metadata_index.jsonl for a keyword in title, description, or keyword_categories.
- * Usage: node keyword_search.mjs <keyword>
+ * Usage: node keyword_search.mjs <keyword> [description_length]
+ * 
+ * Parameters:
+ *   keyword: The search term to look for
+ *   description_length: Optional. Max characters for description display (default: 400)
  */
 import fs from 'fs';
 import readline from 'readline';
@@ -27,11 +31,14 @@ function getStoryLogPath(storyName) {
 
 const args = process.argv.slice(2);
 if (args.length < 1) {
-  console.error('Usage: node keyword_search.mjs <keyword>');
+  console.error('Usage: node keyword_search.mjs <keyword> [description_length]');
+  console.error('  keyword: The search term to look for');
+  console.error('  description_length: Optional. Max characters for description display (default: 400)');
   process.exit(1);
 }
 
 const keyword = args[0].toLowerCase();
+const descriptionLength = args[1] ? parseInt(args[1]) : 200;
 const indexPath = path.join(BASE_DIR, 'analysis', 'metadata_index.jsonl');
 const activeStory = getActiveStory();
 const logPath = getStoryLogPath(activeStory);
@@ -54,7 +61,9 @@ async function searchKeyword() {
       if (Array.isArray(value)) value = value.join(' ').toLowerCase();
       if (typeof value === 'string' && value.toLowerCase().includes(keyword)) {
         matchCount++;
-        const output = `[${entry.file_id}] ${entry.title}\n  Desc: ${(entry.description_markdown||'').replace(/\n+/g, ' ').slice(0, 200)}${(entry.description_markdown||'').length > 200 ? '...' : ''}\n  Categories: ${(entry.keyword_categories||[]).join(', ')}`;
+        const description = (entry.description_markdown || '').replace(/\n+/g, ' ');
+        const truncatedDesc = description.slice(0, descriptionLength) + (description.length > descriptionLength ? '...' : '');
+        const output = `[${entry.file_id}] ${entry.title}\n  Desc: ${truncatedDesc}\n  Categories: ${(entry.keyword_categories||[]).join(', ')}`;
         console.log(`\n${output}`);
         if (logPath) {
           fs.appendFileSync(logPath, `[${new Date().toISOString()}] keyword_search: ${keyword} => ${output}\n`);

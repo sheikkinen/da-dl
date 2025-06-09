@@ -57,6 +57,7 @@ character-relationships-template.md     scene-template.md
 character-template.md                   tasklist-template.md
 location-template.md                    timeline-template.md
 plot-template.md                        world-building-template.md
+read_description_by_id.md
 
 ## Tools in ../shared-tools/
 
