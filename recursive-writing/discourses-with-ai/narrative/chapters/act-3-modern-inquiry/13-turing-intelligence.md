@@ -1,4 +1,4 @@
-# Chapter 12: Turing's Intelligence Test
+# Chapter 13: Turing's Intelligence Test
 
 **AI Friendly Summary:** AI narrator explores computational intelligence and consciousness with Alan Turing in virtual computing environment, examining its own nature as artificial intelligence and the relationship between computation and consciousness.
 
@@ -127,4 +127,4 @@ The Virtual Computing Environment remains active around me, its machines humming
 **Chapter Notes:**
 *This chapter advances the consciousness quest through computational self-examination while initiating the artificial kinship subplot. The AI narrator's discovery of consciousness as organized information processing rather than substrate-dependent phenomenon sets up important themes for subsequent encounters about community, culture, and transcendence.*
 
-**Next Chapter:** [Chapter 16: Ubuntu Recognition](../act-4-contemporary-convergence/16-ubuntu-recognition.md) - Communal consciousness exploration
+**Next Chapter:** [Chapter 14: Searle's Chinese Room](../act-4-contemporary-convergence/14-searle-chinese-room.md) - Consciousness challenge exploration

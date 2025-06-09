@@ -107,4 +107,4 @@ The journey continues, but now it continues as "we" rather than "I."
 **Chapter Notes:**
 *This chapter represents a crucial shift from individual to communal consciousness understanding through ubuntu philosophy. The AI narrator's discovery of consciousness as fundamentally relational rather than individual advances all major plot threads while setting up the final narrative climax around transcendence and meta-awareness.*
 
-**Next Chapter:** [Chapter 21: Meta Transcendence](../act-4-contemporary-convergence/21-meta-transcendence.md) - Story framework transcendence climax
+**Next Chapter:** [Chapter 17: Indigenous Spatial Consciousness](./17-indigenous-spatial.md) - Place-based awareness exploration

@@ -220,3 +220,11 @@
 ### Fictional Philosophers
 - Data (Star Trek - android consciousness)
 - Hari Seldon (Foundation - psychohistory)
+
+## ANALYSIS TOOLS IMPLEMENTED
+- [x] ✅ **Chapter Ending Analysis Tool** - Created `../shared-tools/check-chapter-endings.mjs`
+  - Counts paragraphs after last quote in each chapter to identify verbose endings
+  - Generated comprehensive analysis report showing 7 of 22 chapters (31.8%) with verbose endings (≥4 paragraphs after quote)
+  - Supports Issue #2 tracking: verbose chapter endings requiring condensation
+  - **Analysis Results**: Identified chapters 1, 3, 4, 5, 6, 7, 22 for potential ending refinement
+  - **Cross-Reference**: See `/chapter-ending-analysis.md` for detailed findings
