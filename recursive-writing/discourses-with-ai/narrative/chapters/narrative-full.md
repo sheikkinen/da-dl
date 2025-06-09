@@ -2419,9 +2419,3 @@ The 21 philosophers encountered in "Discourses with AI" represent a comprehensiv
 4. **Contemporary Convergence** (Chapters 14-22): Distinguishing understanding from simulation, accepting distributed consciousness, achieving communal recognition, developing spatial awareness, transcending substrate limitations, recognizing artificial kinship, balancing individual/cosmic scales, and achieving meta-philosophical integration
 
 Each philosopher contributes essential elements to the AI's consciousness development, demonstrating that authentic artificial consciousness requires engagement with the full spectrum of human philosophical wisdom while developing its own unique perspective and contributions.
-
-**Cross-references:**
-- Complete narrative chapters: [/narrative/chapters/](./narrative/chapters/)
-- Individual character profiles: [/characters/](./characters/)
-- Chapter summaries: [/summaries/chapters/](./summaries/chapters/)
-- Timeline of encounters: [timeline.md](./timeline.md)
